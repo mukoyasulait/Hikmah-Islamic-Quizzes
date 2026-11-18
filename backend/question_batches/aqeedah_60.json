@@ -1,0 +1,1502 @@
+[
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What does Aqeedah refer to in Islamic studies?",
+    "explanation": "Aqeedah concerns the foundational beliefs a Muslim holds.",
+    "source_reference": "Qur’an 2:285; 4:136",
+    "options": [
+      {
+        "option_text": "Core beliefs and convictions of faith",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rules of handwriting",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A chapter of history",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What is the first article of faith in Islam?",
+    "explanation": "Belief in Allah is the foundation of Islamic faith.",
+    "source_reference": "Qur’an 4:136; Sahih Muslim, Hadith of Jibril",
+    "options": [
+      {
+        "option_text": "Belief in Allah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Belief in angels",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belief in the Last Day",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belief in the revealed books",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "How many articles of faith are listed in the well-known Hadith of Jibril?",
+    "explanation": "The Hadith of Jibril identifies belief in Allah, His angels, books, messengers, the Last Day and divine decree.",
+    "source_reference": "Sahih Muslim 8",
+    "options": [
+      {
+        "option_text": "Four",
+        "is_correct": false
+      },
+      {
+        "option_text": "Five",
+        "is_correct": false
+      },
+      {
+        "option_text": "Six",
+        "is_correct": true
+      },
+      {
+        "option_text": "Seven",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What is Tawhid?",
+    "explanation": "Tawhid is affirming Allah’s oneness and uniqueness.",
+    "source_reference": "Qur’an 112:1–4; 2:163",
+    "options": [
+      {
+        "option_text": "Belief in the oneness of Allah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Belief in many gods",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rejecting all prophets",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belief that angels are gods",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "Who is the Creator and Sustainer of everything?",
+    "explanation": "The Qur’an teaches that Allah is the Creator and Sustainer of all things.",
+    "source_reference": "Qur’an 39:62; 6:102",
+    "options": [
+      {
+        "option_text": "Allah",
+        "is_correct": true
+      },
+      {
+        "option_text": "The angels",
+        "is_correct": false
+      },
+      {
+        "option_text": "Human beings",
+        "is_correct": false
+      },
+      {
+        "option_text": "The stars",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What does Islam teach about Allah’s uniqueness?",
+    "explanation": "Allah is described as incomparable and unlike anything in creation.",
+    "source_reference": "Qur’an 42:11; 112:4",
+    "options": [
+      {
+        "option_text": "Nothing is comparable to Him",
+        "is_correct": true
+      },
+      {
+        "option_text": "He is like created beings",
+        "is_correct": false
+      },
+      {
+        "option_text": "He has partners",
+        "is_correct": false
+      },
+      {
+        "option_text": "He depends on creation",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What are angels in Islamic belief?",
+    "explanation": "Angels are created servants of Allah who carry out His commands.",
+    "source_reference": "Qur’an 21:26–27; 66:6",
+    "options": [
+      {
+        "option_text": "Created beings who obey Allah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gods who share power with Allah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Human prophets",
+        "is_correct": false
+      },
+      {
+        "option_text": "Deceased kings",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "Which angel is associated with bringing revelation to prophets?",
+    "explanation": "Jibril brought revelation by Allah’s permission.",
+    "source_reference": "Qur’an 2:97; 26:193–194",
+    "options": [
+      {
+        "option_text": "Jibril",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mikail",
+        "is_correct": false
+      },
+      {
+        "option_text": "Malik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ridwan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What is belief in revealed books?",
+    "explanation": "Muslims believe in the scriptures Allah revealed to His messengers.",
+    "source_reference": "Qur’an 2:285; 4:136",
+    "options": [
+      {
+        "option_text": "Believing that Allah sent guidance through scriptures to His messengers",
+        "is_correct": true
+      },
+      {
+        "option_text": "Believing every human book is revelation",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rejecting all scripture",
+        "is_correct": false
+      },
+      {
+        "option_text": "Believing books are divine beings",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "Which prophet received the Tawrah according to the Qur’an?",
+    "explanation": "The Qur’an states that Allah gave Musa the Tawrah.",
+    "source_reference": "Qur’an 5:44",
+    "options": [
+      {
+        "option_text": "Musa",
+        "is_correct": true
+      },
+      {
+        "option_text": "Isa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yusuf",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nuh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "Which prophet received the Injil according to the Qur’an?",
+    "explanation": "The Qur’an states that Allah gave Isa the Injil.",
+    "source_reference": "Qur’an 5:46",
+    "options": [
+      {
+        "option_text": "Isa",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ibrahim",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dawud",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sulayman",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "Which prophet received the Zabur according to the Qur’an?",
+    "explanation": "The Qur’an states that Allah gave Dawud the Zabur.",
+    "source_reference": "Qur’an 4:163; 17:55",
+    "options": [
+      {
+        "option_text": "Dawud",
+        "is_correct": true
+      },
+      {
+        "option_text": "Musa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yunus",
+        "is_correct": false
+      },
+      {
+        "option_text": "Lut",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What is belief in the Last Day?",
+    "explanation": "Belief in the Last Day includes resurrection, judgment and accountability.",
+    "source_reference": "Qur’an 2:4; 22:7",
+    "options": [
+      {
+        "option_text": "Belief that people will be resurrected and held accountable",
+        "is_correct": true
+      },
+      {
+        "option_text": "Belief that life has no end or accountability",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belief that the world never changes",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belief that angels will be worshipped",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What does belief in divine decree (Qadar) include?",
+    "explanation": "Qadar is belief in Allah’s encompassing knowledge and decree, as well as the realities described in revelation.",
+    "source_reference": "Qur’an 54:49; Sahih Muslim 8",
+    "options": [
+      {
+        "option_text": "Belief that Allah’s knowledge and decree encompass all things",
+        "is_correct": true
+      },
+      {
+        "option_text": "Belief that Allah knows nothing about the future",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belief that creation controls Allah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Belief that nothing has a cause",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "Who is the final prophet in Islam?",
+    "explanation": "The Qur’an describes Muhammad as the Messenger of Allah and the Seal of the Prophets.",
+    "source_reference": "Qur’an 33:40",
+    "options": [
+      {
+        "option_text": "Muhammad",
+        "is_correct": true
+      },
+      {
+        "option_text": "Isa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Musa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ibrahim",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What is shirk?",
+    "explanation": "Shirk means associating partners with Allah, which the Qur’an strongly warns against.",
+    "source_reference": "Qur’an 4:48; 31:13",
+    "options": [
+      {
+        "option_text": "Associating partners with Allah in worship or divinity",
+        "is_correct": true
+      },
+      {
+        "option_text": "Giving charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "Seeking knowledge",
+        "is_correct": false
+      },
+      {
+        "option_text": "Showing gratitude",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What is iman?",
+    "explanation": "Iman refers to faith and belief, explained in the Hadith of Jibril through its articles.",
+    "source_reference": "Sahih Muslim 8",
+    "options": [
+      {
+        "option_text": "Faith or belief",
+        "is_correct": true
+      },
+      {
+        "option_text": "A market",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of food",
+        "is_correct": false
+      },
+      {
+        "option_text": "A pilgrimage route",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What does the word Rasul mean?",
+    "explanation": "Rasul means messenger; in Islamic belief, messengers convey Allah’s guidance.",
+    "source_reference": "Qur’an 4:136",
+    "options": [
+      {
+        "option_text": "Messenger",
+        "is_correct": true
+      },
+      {
+        "option_text": "King",
+        "is_correct": false
+      },
+      {
+        "option_text": "Merchant",
+        "is_correct": false
+      },
+      {
+        "option_text": "Scribe",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What is the purpose of prophets and messengers?",
+    "explanation": "Prophets and messengers call people to worship Allah and follow His guidance.",
+    "source_reference": "Qur’an 16:36; 21:25",
+    "options": [
+      {
+        "option_text": "To convey Allah’s guidance to people",
+        "is_correct": true
+      },
+      {
+        "option_text": "To be worshipped",
+        "is_correct": false
+      },
+      {
+        "option_text": "To replace Allah",
+        "is_correct": false
+      },
+      {
+        "option_text": "To gain worldly kingdoms only",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Beginner",
+    "question_text": "What does the Shahadah affirm?",
+    "explanation": "The testimony of faith affirms Allah’s oneness and Muhammad’s messengership.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim (Hadith on the pillars of Islam)",
+    "options": [
+      {
+        "option_text": "That none has the right to be worshipped but Allah and Muhammad is His Messenger",
+        "is_correct": true
+      },
+      {
+        "option_text": "That angels should be worshipped",
+        "is_correct": false
+      },
+      {
+        "option_text": "That there are many creators",
+        "is_correct": false
+      },
+      {
+        "option_text": "That prayer is unnecessary",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the distinction between Tawhid al-Rububiyyah and Tawhid al-Uluhiyyah in common theological terminology?",
+    "explanation": "These terms distinguish affirming Allah as Lord and Creator from singling Him out in worship; their formal use is part of later theological classification.",
+    "source_reference": "Qur’an 1:2; 21:25; 39:62",
+    "options": [
+      {
+        "option_text": "The first concerns Allah’s Lordship and actions; the second concerns directing worship to Him alone",
+        "is_correct": true
+      },
+      {
+        "option_text": "The first concerns angels; the second concerns prophets",
+        "is_correct": false
+      },
+      {
+        "option_text": "They both mean belief in scripture only",
+        "is_correct": false
+      },
+      {
+        "option_text": "They are names for two prayer times",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What does Tawhid al-Asma’ wa al-Sifat refer to in common theological terminology?",
+    "explanation": "The term refers to affirming the names and attributes established in revelation while maintaining Allah’s uniqueness.",
+    "source_reference": "Qur’an 7:180; 42:11",
+    "options": [
+      {
+        "option_text": "Affirming Allah’s names and attributes as taught in revelation, in a manner befitting Him",
+        "is_correct": true
+      },
+      {
+        "option_text": "Believing angels have divine names",
+        "is_correct": false
+      },
+      {
+        "option_text": "Naming every created object",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rejecting all descriptions of Allah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the meaning of Ihsan in the Hadith of Jibril?",
+    "explanation": "The Hadith of Jibril defines ihsan through awareness of Allah while worshipping Him.",
+    "source_reference": "Sahih Muslim 8",
+    "options": [
+      {
+        "option_text": "To worship Allah as though you see Him, and know that He sees you",
+        "is_correct": true
+      },
+      {
+        "option_text": "To give wealth only",
+        "is_correct": false
+      },
+      {
+        "option_text": "To travel for trade",
+        "is_correct": false
+      },
+      {
+        "option_text": "To memorise genealogies",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What does the Qur’an teach about the purpose of human creation?",
+    "explanation": "The Qur’an states that jinn and humankind were created to worship Allah.",
+    "source_reference": "Qur’an 51:56",
+    "options": [
+      {
+        "option_text": "To worship Allah",
+        "is_correct": true
+      },
+      {
+        "option_text": "To become angels",
+        "is_correct": false
+      },
+      {
+        "option_text": "To live without responsibility",
+        "is_correct": false
+      },
+      {
+        "option_text": "To worship created objects",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the Islamic belief concerning the nature of Allah’s knowledge?",
+    "explanation": "Allah’s knowledge encompasses the seen and unseen and all things.",
+    "source_reference": "Qur’an 2:29; 6:59; 57:4",
+    "options": [
+      {
+        "option_text": "His knowledge encompasses all things",
+        "is_correct": true
+      },
+      {
+        "option_text": "He learns only after events occur",
+        "is_correct": false
+      },
+      {
+        "option_text": "He knows only what humans tell Him",
+        "is_correct": false
+      },
+      {
+        "option_text": "His knowledge is limited to one place",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What does the Qur’an say about Allah’s hearing and seeing?",
+    "explanation": "The Qur’an repeatedly affirms Allah’s perfect hearing and seeing in a manner befitting Him.",
+    "source_reference": "Qur’an 4:58; 42:11",
+    "options": [
+      {
+        "option_text": "Allah hears and sees all things",
+        "is_correct": true
+      },
+      {
+        "option_text": "Allah hears only prayers in Arabic",
+        "is_correct": false
+      },
+      {
+        "option_text": "Allah sees only during the day",
+        "is_correct": false
+      },
+      {
+        "option_text": "Allah depends on instruments to hear",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the Islamic belief about angels and disobedience to Allah?",
+    "explanation": "The Qur’an describes angels as not disobeying Allah and carrying out His commands.",
+    "source_reference": "Qur’an 66:6",
+    "options": [
+      {
+        "option_text": "They do not disobey Allah in what He commands them",
+        "is_correct": true
+      },
+      {
+        "option_text": "They are free to become gods",
+        "is_correct": false
+      },
+      {
+        "option_text": "They control Allah’s decisions",
+        "is_correct": false
+      },
+      {
+        "option_text": "They are human beings after death",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the role of Israfil commonly mentioned in Islamic teaching?",
+    "explanation": "Islamic reports identify Israfil with the Trumpet; the Qur’an confirms the blowing of the Trumpet without naming the angel in those verses.",
+    "source_reference": "Qur’an 39:68; 69:13; Hadith reports in Sahih Muslim",
+    "options": [
+      {
+        "option_text": "Blowing the Trumpet by Allah’s command",
+        "is_correct": true
+      },
+      {
+        "option_text": "Bringing the Qur’an to Muhammad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Guarding the gates of Paradise as a prophet",
+        "is_correct": false
+      },
+      {
+        "option_text": "Writing every person’s business contracts",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the Barzakh in Islamic belief?",
+    "explanation": "The Qur’an refers to a barrier behind those who have died until the day they are resurrected.",
+    "source_reference": "Qur’an 23:99–100",
+    "options": [
+      {
+        "option_text": "An interval or barrier between death and resurrection",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A name for the Ka‘bah",
+        "is_correct": false
+      },
+      {
+        "option_text": "A revealed scripture",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is resurrection (Ba‘th) in Islamic belief?",
+    "explanation": "Resurrection is a central part of belief in the Last Day.",
+    "source_reference": "Qur’an 22:7; 36:78–79",
+    "options": [
+      {
+        "option_text": "Allah bringing people back to life after death",
+        "is_correct": true
+      },
+      {
+        "option_text": "People becoming angels",
+        "is_correct": false
+      },
+      {
+        "option_text": "The end of all accountability",
+        "is_correct": false
+      },
+      {
+        "option_text": "A second worldly life without judgment",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the Mizan in descriptions of the Last Day?",
+    "explanation": "The Qur’an describes the setting up of just scales on the Day of Resurrection.",
+    "source_reference": "Qur’an 21:47; 101:6–9",
+    "options": [
+      {
+        "option_text": "The scale by which deeds are weighed",
+        "is_correct": true
+      },
+      {
+        "option_text": "A revealed book",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prophet’s title",
+        "is_correct": false
+      },
+      {
+        "option_text": "A place of pilgrimage",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the Sirat in traditional descriptions of the Hereafter?",
+    "explanation": "Hadith reports describe people passing over the Sirat; this detail is part of traditional descriptions of the Hereafter.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim (reports on the Sirat)",
+    "options": [
+      {
+        "option_text": "A bridge or path over Hell mentioned in Hadith reports",
+        "is_correct": true
+      },
+      {
+        "option_text": "A river in this world",
+        "is_correct": false
+      },
+      {
+        "option_text": "A name for the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of fasting",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is intercession (Shafa‘ah) in Islamic belief?",
+    "explanation": "The Qur’an affirms that intercession belongs to Allah and occurs only with His permission.",
+    "source_reference": "Qur’an 2:255; 20:109; 34:23",
+    "options": [
+      {
+        "option_text": "Intercession that occurs only by Allah’s permission",
+        "is_correct": true
+      },
+      {
+        "option_text": "An independent power held by every person",
+        "is_correct": false
+      },
+      {
+        "option_text": "A replacement for worship",
+        "is_correct": false
+      },
+      {
+        "option_text": "A power that overrides Allah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What does the Qur’an teach about the ability of prophets to know the unseen independently?",
+    "explanation": "The Qur’an states that Allah alone has comprehensive knowledge of the unseen and reveals what He wills to chosen messengers.",
+    "source_reference": "Qur’an 6:50; 72:26–27",
+    "options": [
+      {
+        "option_text": "They do not possess independent knowledge of the unseen; Allah reveals what He wills",
+        "is_correct": true
+      },
+      {
+        "option_text": "All prophets know every unseen matter independently",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prophets know nothing at all",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only kings know the unseen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the Islamic understanding of miracles given to prophets (Mu‘jizat)?",
+    "explanation": "Prophetic signs occur by Allah’s permission and do not make a prophet divine.",
+    "source_reference": "Qur’an 3:49; 13:38",
+    "options": [
+      {
+        "option_text": "Signs granted by Allah to support His messengers",
+        "is_correct": true
+      },
+      {
+        "option_text": "Powers that make prophets divine",
+        "is_correct": false
+      },
+      {
+        "option_text": "Skills that every person has equally",
+        "is_correct": false
+      },
+      {
+        "option_text": "Events that occur independently of Allah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What does the Qur’an teach about the original message of all prophets?",
+    "explanation": "The Qur’an presents the central call of messengers as worshipping Allah and avoiding false objects of worship.",
+    "source_reference": "Qur’an 16:36; 21:25",
+    "options": [
+      {
+        "option_text": "They called people to worship Allah alone",
+        "is_correct": true
+      },
+      {
+        "option_text": "They taught people to worship different gods",
+        "is_correct": false
+      },
+      {
+        "option_text": "They rejected accountability",
+        "is_correct": false
+      },
+      {
+        "option_text": "They taught that revelation was unnecessary",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the meaning of fitrah in Islamic belief?",
+    "explanation": "The Hadith describes every child as born upon the fitrah; the term is associated with an innate disposition toward truth.",
+    "source_reference": "Qur’an 30:30; Sahih al-Bukhari; Sahih Muslim",
+    "options": [
+      {
+        "option_text": "The natural disposition upon which Allah created people",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "A book of Hadith",
+        "is_correct": false
+      },
+      {
+        "option_text": "A legal penalty",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the relationship between iman and righteous deeds in many Qur’anic passages?",
+    "explanation": "The Qur’an repeatedly joins belief with righteous deeds when describing successful believers.",
+    "source_reference": "Qur’an 103:1–3; 2:25",
+    "options": [
+      {
+        "option_text": "Faith is frequently mentioned together with righteous action",
+        "is_correct": true
+      },
+      {
+        "option_text": "Righteous action makes belief unnecessary",
+        "is_correct": false
+      },
+      {
+        "option_text": "Faith is only a family inheritance",
+        "is_correct": false
+      },
+      {
+        "option_text": "Deeds have no connection to accountability",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What does the Qur’an teach about the purpose of sending messengers?",
+    "explanation": "The Qur’an describes revelation and messengership as guidance that brings people from darkness to light.",
+    "source_reference": "Qur’an 14:1; 57:9",
+    "options": [
+      {
+        "option_text": "To bring people from darkness into light by Allah’s permission",
+        "is_correct": true
+      },
+      {
+        "option_text": "To collect wealth for themselves",
+        "is_correct": false
+      },
+      {
+        "option_text": "To be worshipped by their followers",
+        "is_correct": false
+      },
+      {
+        "option_text": "To remove human responsibility",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Intermediate",
+    "question_text": "What is the meaning of kufr in Islamic theological usage?",
+    "explanation": "Kufr is a theological term for disbelief or rejection; applying judgments to individuals requires knowledge and care.",
+    "source_reference": "Qur’an 2:6; 4:136",
+    "options": [
+      {
+        "option_text": "Disbelief or rejection of faith",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of obligatory charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prayer position",
+        "is_correct": false
+      },
+      {
+        "option_text": "A form of pilgrimage",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "Which Qur’anic verse is a central text for the principle that nothing is like Allah?",
+    "explanation": "Qur’an 42:11 affirms that nothing is comparable to Allah while also mentioning His hearing and seeing.",
+    "source_reference": "Qur’an 42:11",
+    "options": [
+      {
+        "option_text": "42:11",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:183",
+        "is_correct": false
+      },
+      {
+        "option_text": "5:6",
+        "is_correct": false
+      },
+      {
+        "option_text": "24:35",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the theological significance of Surah al-Ikhlas?",
+    "explanation": "Surah al-Ikhlas affirms Allah’s oneness, self-sufficiency and incomparability.",
+    "source_reference": "Qur’an 112:1–4",
+    "options": [
+      {
+        "option_text": "It summarises Allah’s oneness and absolute uniqueness",
+        "is_correct": true
+      },
+      {
+        "option_text": "It sets out inheritance shares",
+        "is_correct": false
+      },
+      {
+        "option_text": "It describes the rites of Hajj",
+        "is_correct": false
+      },
+      {
+        "option_text": "It gives the details of fasting",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the difference between Allah’s will (iradah) and human choice in discussions of Qadar?",
+    "explanation": "Islamic theology affirms Allah’s encompassing decree while revelation also holds people responsible for their choices; scholars explain the relationship in different ways.",
+    "source_reference": "Qur’an 18:29; 81:28–29; 54:49",
+    "options": [
+      {
+        "option_text": "The topic concerns how divine decree and human responsibility are affirmed together, with detailed theological explanations",
+        "is_correct": true
+      },
+      {
+        "option_text": "Human choice makes Allah unaware of events",
+        "is_correct": false
+      },
+      {
+        "option_text": "Allah’s decree means people are never accountable",
+        "is_correct": false
+      },
+      {
+        "option_text": "Humans create independently of Allah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "Which verse is often cited to show that human beings will be accountable for their deeds, even as Allah’s will encompasses all things?",
+    "explanation": "These verses mention human willing while stating that people do not will except as Allah wills.",
+    "source_reference": "Qur’an 81:28–29",
+    "options": [
+      {
+        "option_text": "81:28–29",
+        "is_correct": true
+      },
+      {
+        "option_text": "105:1",
+        "is_correct": false
+      },
+      {
+        "option_text": "108:1",
+        "is_correct": false
+      },
+      {
+        "option_text": "113:1",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What does the term “Nubuwwah” refer to?",
+    "explanation": "Nubuwwah is the concept of prophethood and Allah’s choosing of prophets to receive guidance.",
+    "source_reference": "Qur’an 3:33–34; 6:89",
+    "options": [
+      {
+        "option_text": "Prophethood",
+        "is_correct": true
+      },
+      {
+        "option_text": "Charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "Inheritance",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the common distinction between a Nabi and a Rasul in classical discussions?",
+    "explanation": "The exact technical distinction is discussed differently by scholars; both terms refer to prophets chosen by Allah.",
+    "source_reference": "Qur’an 22:52; 19:51",
+    "options": [
+      {
+        "option_text": "Scholars have offered different technical definitions, while both are recipients of divine guidance",
+        "is_correct": true
+      },
+      {
+        "option_text": "A Nabi is divine and a Rasul is human",
+        "is_correct": false
+      },
+      {
+        "option_text": "A Rasul cannot receive revelation",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Qur’an says all terms mean king",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What does the doctrine of ‘Ismah commonly refer to in discussions of prophethood?",
+    "explanation": "‘Ismah concerns protection from error or sin in specified respects; scholars discuss its scope and details.",
+    "source_reference": "Qur’an 5:67; 53:3–4",
+    "options": [
+      {
+        "option_text": "Divine protection of prophets in conveying revelation, with details debated by theologians",
+        "is_correct": true
+      },
+      {
+        "option_text": "A prophet’s ability to create life independently",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prophet’s freedom from being human",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prophet’s ownership of the unseen",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the meaning of Khatm al-Nubuwwah?",
+    "explanation": "The Qur’an identifies Muhammad as the Seal of the Prophets.",
+    "source_reference": "Qur’an 33:40",
+    "options": [
+      {
+        "option_text": "The finality of prophethood with Muhammad as the Seal of the Prophets",
+        "is_correct": true
+      },
+      {
+        "option_text": "The beginning of prophethood after Muhammad",
+        "is_correct": false
+      },
+      {
+        "option_text": "The end of revelation before Musa",
+        "is_correct": false
+      },
+      {
+        "option_text": "The appointment of angels as prophets",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "Which Qur’anic passage explicitly names some messengers as possessing special steadfastness (Ulul ‘Azm)?",
+    "explanation": "Qur’an 46:35 commands the Prophet to be patient as the messengers of strong resolve were patient; scholars discuss which messengers are included.",
+    "source_reference": "Qur’an 46:35; 42:13",
+    "options": [
+      {
+        "option_text": "46:35",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:255",
+        "is_correct": false
+      },
+      {
+        "option_text": "24:35",
+        "is_correct": false
+      },
+      {
+        "option_text": "112:1",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the meaning of “Ghayb”?",
+    "explanation": "Ghayb refers to realities beyond ordinary human perception; Allah has comprehensive knowledge of it.",
+    "source_reference": "Qur’an 2:3; 6:59",
+    "options": [
+      {
+        "option_text": "The unseen",
+        "is_correct": true
+      },
+      {
+        "option_text": "The marketplace",
+        "is_correct": false
+      },
+      {
+        "option_text": "The pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "The written contract",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "Which statement best expresses the Islamic position on the Qur’an as revelation?",
+    "explanation": "Muslims believe the Qur’an is Allah’s revelation sent to Muhammad through Jibril.",
+    "source_reference": "Qur’an 26:192–195; 4:166",
+    "options": [
+      {
+        "option_text": "It is the speech of Allah revealed to Prophet Muhammad",
+        "is_correct": true
+      },
+      {
+        "option_text": "It is a book authored by the Prophet",
+        "is_correct": false
+      },
+      {
+        "option_text": "It is a collection of angelic opinions",
+        "is_correct": false
+      },
+      {
+        "option_text": "It is a later human philosophy",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What does the Qur’an state about the preservation of the revealed Reminder?",
+    "explanation": "Qur’an 15:9 states that Allah sent down the Reminder and will preserve it.",
+    "source_reference": "Qur’an 15:9",
+    "options": [
+      {
+        "option_text": "Allah has undertaken to preserve it",
+        "is_correct": true
+      },
+      {
+        "option_text": "Human rulers alone guarantee it",
+        "is_correct": false
+      },
+      {
+        "option_text": "It was meant to disappear",
+        "is_correct": false
+      },
+      {
+        "option_text": "It is preserved only in one person’s memory",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the meaning of “Shirk akbar” in common theological terminology?",
+    "explanation": "The term is commonly used for major shirk, which directly contradicts worshipping Allah alone.",
+    "source_reference": "Qur’an 4:48; 31:13",
+    "options": [
+      {
+        "option_text": "Major association of partners with Allah that contradicts the foundation of Tawhid",
+        "is_correct": true
+      },
+      {
+        "option_text": "A minor mistake in pronunciation",
+        "is_correct": false
+      },
+      {
+        "option_text": "A recommended act",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "Why should Muslims be cautious about declaring a particular individual outside Islam?",
+    "explanation": "Applying theological judgments to individuals is serious and requires scholarly knowledge of relevant conditions and impediments.",
+    "source_reference": "Qur’an 4:94; Sahih al-Bukhari, Book of Faith",
+    "options": [
+      {
+        "option_text": "Judging individuals requires knowledge of evidence, conditions and impediments, and is not a casual matter",
+        "is_correct": true
+      },
+      {
+        "option_text": "Because belief has no meaning",
+        "is_correct": false
+      },
+      {
+        "option_text": "Because no one is accountable",
+        "is_correct": false
+      },
+      {
+        "option_text": "Because every statement is automatically correct",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What does the term “Nifaq” mean in Islamic belief?",
+    "explanation": "Nifaq refers to hypocrisy; the Qur’an discusses its signs and dangers.",
+    "source_reference": "Qur’an 4:142–145; 63:1–3",
+    "options": [
+      {
+        "option_text": "Hypocrisy",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gratitude",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "Charity",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the distinction often made between major and minor hypocrisy?",
+    "explanation": "Scholars distinguish hypocrisy in belief from blameworthy hypocritical traits in conduct; details should be handled carefully.",
+    "source_reference": "Qur’an 4:145; Sahih al-Bukhari 33; Sahih Muslim 59",
+    "options": [
+      {
+        "option_text": "Major hypocrisy concerns hidden disbelief while outwardly professing faith; minor hypocrisy refers to traits or actions resembling hypocrisy",
+        "is_correct": true
+      },
+      {
+        "option_text": "They are always identical",
+        "is_correct": false
+      },
+      {
+        "option_text": "Minor hypocrisy means no moral concern",
+        "is_correct": false
+      },
+      {
+        "option_text": "Major hypocrisy is a type of prayer",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the theological meaning of “Rida” in relation to Allah’s decree?",
+    "explanation": "Contentment with Allah’s decree is discussed alongside patience and reliance; it does not mean abandoning responsible action.",
+    "source_reference": "Qur’an 9:51; 2:155–157",
+    "options": [
+      {
+        "option_text": "Contentment with Allah’s decree, while still taking lawful means and responding responsibly",
+        "is_correct": true
+      },
+      {
+        "option_text": "Refusing all effort",
+        "is_correct": false
+      },
+      {
+        "option_text": "Claiming to know the unseen",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rejecting divine wisdom",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is “Tawakkul”?",
+    "explanation": "Tawakkul is reliance upon Allah, and the Qur’an connects reliance with taking action and resolving matters.",
+    "source_reference": "Qur’an 3:159; 65:3",
+    "options": [
+      {
+        "option_text": "Reliance upon Allah while taking appropriate means",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abandoning all effort",
+        "is_correct": false
+      },
+      {
+        "option_text": "Depending on created things as independent powers",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rejecting planning",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What is the relationship between fear (khawf), hope (raja’) and love (mahabbah) in worship?",
+    "explanation": "The Qur’an describes believers as calling upon Allah with fear and hope, and loving Him deeply.",
+    "source_reference": "Qur’an 7:56; 2:165; 32:16",
+    "options": [
+      {
+        "option_text": "They are important dimensions of a balanced devotion to Allah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Only fear matters and hope is forbidden",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only hope matters and obedience is unnecessary",
+        "is_correct": false
+      },
+      {
+        "option_text": "They apply only to angels",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Aqeedah",
+    "difficulty": "Advanced",
+    "question_text": "What does the Qur’an teach about the ultimate authority to judge between people?",
+    "explanation": "The Qur’an affirms Allah’s perfect judgment and justice over all creation.",
+    "source_reference": "Qur’an 6:57; 95:8; 40:20",
+    "options": [
+      {
+        "option_text": "Allah is the ultimate and most just Judge",
+        "is_correct": true
+      },
+      {
+        "option_text": "Wealth is the final judge",
+        "is_correct": false
+      },
+      {
+        "option_text": "Angels act independently of Allah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Human rulers have absolute authority over truth",
+        "is_correct": false
+      }
+    ]
+  }
+]

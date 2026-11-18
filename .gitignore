@@ -1,0 +1,25 @@
+# Python virtual environments
+.venv/
+backend/.venv/
+
+# Python cache files
+__pycache__/
+*.py[cod]
+
+# Environment variables and secrets
+.env
+backend/.env
+
+# SQLite database files
+*.db
+*.sqlite3
+
+# Flutter generated files
+app/.dart_tool/
+app/build/
+app/.flutter-plugins
+app/.flutter-plugins-dependencies
+
+# IDE files
+.vscode/
+.idea/

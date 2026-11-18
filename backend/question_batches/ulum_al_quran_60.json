@@ -1,0 +1,1502 @@
+[
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "What does the Arabic word “Qur’an” commonly mean?",
+    "explanation": "The word Qur’an is associated with recitation or reading aloud.",
+    "source_reference": "Qur’an 75:17–18",
+    "options": [
+      {
+        "option_text": "The recitation",
+        "is_correct": true
+      },
+      {
+        "option_text": "The journey",
+        "is_correct": false
+      },
+      {
+        "option_text": "The law court",
+        "is_correct": false
+      },
+      {
+        "option_text": "The community",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "In which language was the Qur’an revealed?",
+    "explanation": "The Qur’an describes itself as an Arabic recitation.",
+    "source_reference": "Qur’an 12:2",
+    "options": [
+      {
+        "option_text": "Persian",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arabic",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hebrew",
+        "is_correct": false
+      },
+      {
+        "option_text": "Greek",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Who received the Qur’an as revelation?",
+    "explanation": "The Qur’an was revealed to Prophet Muhammad (peace be upon him).",
+    "source_reference": "Qur’an 26:192–195",
+    "options": [
+      {
+        "option_text": "Prophet Musa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prophet Isa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prophet Muhammad",
+        "is_correct": true
+      },
+      {
+        "option_text": "Prophet Ibrahim",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Which angel brought revelation to Prophet Muhammad?",
+    "explanation": "Jibril (Gabriel) is identified as the trustworthy Spirit who brought the revelation.",
+    "source_reference": "Qur’an 26:193–194",
+    "options": [
+      {
+        "option_text": "Mikail",
+        "is_correct": false
+      },
+      {
+        "option_text": "Jibril",
+        "is_correct": true
+      },
+      {
+        "option_text": "Israfil",
+        "is_correct": false
+      },
+      {
+        "option_text": "Malik",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "What is the first word revealed from the Qur’an according to the opening verses of Surah al-‘Alaq?",
+    "explanation": "The opening command in the first revealed passage is “Iqra’,” commonly translated as “Read” or “Recite.”",
+    "source_reference": "Qur’an 96:1–5",
+    "options": [
+      {
+        "option_text": "Pray",
+        "is_correct": false
+      },
+      {
+        "option_text": "Read",
+        "is_correct": true
+      },
+      {
+        "option_text": "Give",
+        "is_correct": false
+      },
+      {
+        "option_text": "Travel",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "In which month did the Qur’an begin to be revealed?",
+    "explanation": "The Qur’an states that it was revealed in Ramadan.",
+    "source_reference": "Qur’an 2:185",
+    "options": [
+      {
+        "option_text": "Muharram",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rajab",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ramadan",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dhul-Hijjah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Which surah is placed first in the standard order of the Qur’an?",
+    "explanation": "Surah al-Fatihah opens the standard arrangement of the Qur’an.",
+    "source_reference": "Qur’an 1:1–7",
+    "options": [
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Fatihah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Ikhlas",
+        "is_correct": false
+      },
+      {
+        "option_text": "An-Nas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Which surah is the longest in the Qur’an?",
+    "explanation": "Surah al-Baqarah is the longest surah in the Qur’an.",
+    "source_reference": "Qur’an 2",
+    "options": [
+      {
+        "option_text": "Al-Imran",
+        "is_correct": false
+      },
+      {
+        "option_text": "An-Nisa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Ma’idah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Which surah is the shortest in the Qur’an by number of verses?",
+    "explanation": "Surah al-Kawthar consists of three verses.",
+    "source_reference": "Qur’an 108:1–3",
+    "options": [
+      {
+        "option_text": "Al-Kawthar",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Asr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Falaq",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qadr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "What is a surah?",
+    "explanation": "The Qur’an is divided into chapters called surahs.",
+    "source_reference": "Qur’an 2:1–5",
+    "options": [
+      {
+        "option_text": "A chapter of the Qur’an",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prayer position",
+        "is_correct": false
+      },
+      {
+        "option_text": "A historical kingdom",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "What is an ayah in the Qur’an?",
+    "explanation": "An ayah is a verse and also carries the meaning of a sign.",
+    "source_reference": "Qur’an 2:39; 2:106",
+    "options": [
+      {
+        "option_text": "A chapter",
+        "is_correct": false
+      },
+      {
+        "option_text": "A verse or sign",
+        "is_correct": true
+      },
+      {
+        "option_text": "A book cover",
+        "is_correct": false
+      },
+      {
+        "option_text": "A recitation contest",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "How many surahs are in the Qur’an?",
+    "explanation": "The standard Qur’an contains 114 surahs.",
+    "source_reference": "Qur’an, complete text (114 surahs)",
+    "options": [
+      {
+        "option_text": "99",
+        "is_correct": false
+      },
+      {
+        "option_text": "100",
+        "is_correct": false
+      },
+      {
+        "option_text": "114",
+        "is_correct": true
+      },
+      {
+        "option_text": "120",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Which surah is commonly known as “The Opening”?",
+    "explanation": "Al-Fatihah means the Opening and begins the Qur’an’s standard arrangement.",
+    "source_reference": "Qur’an 1:1–7",
+    "options": [
+      {
+        "option_text": "Al-Fatihah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Fil",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Masad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qari‘ah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Which surah begins with “Qul huwa Allahu ahad”?",
+    "explanation": "Surah al-Ikhlas begins with the declaration that Allah is One.",
+    "source_reference": "Qur’an 112:1",
+    "options": [
+      {
+        "option_text": "Al-Falaq",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ikhlas",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Kafirun",
+        "is_correct": false
+      },
+      {
+        "option_text": "An-Nas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "What is the main subject of Surah al-Ikhlas?",
+    "explanation": "Surah al-Ikhlas describes Allah’s absolute oneness and uniqueness.",
+    "source_reference": "Qur’an 112:1–4",
+    "options": [
+      {
+        "option_text": "Agriculture",
+        "is_correct": false
+      },
+      {
+        "option_text": "The oneness and uniqueness of Allah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Trade rules",
+        "is_correct": false
+      },
+      {
+        "option_text": "The story of Yusuf",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "What is the name commonly given to the process of memorising the Qur’an?",
+    "explanation": "Hifz means memorisation; a person who memorises the Qur’an is often called a hafiz.",
+    "source_reference": "Qur’an 54:17",
+    "options": [
+      {
+        "option_text": "Tafsir",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hifz",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hijrah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zakah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "What does “Tajwid” concern?",
+    "explanation": "Tajwid is the discipline of reciting Qur’anic words correctly with their established articulation and qualities.",
+    "source_reference": "Qur’an 73:4",
+    "options": [
+      {
+        "option_text": "Rules for proper Qur’an recitation",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rules of inheritance",
+        "is_correct": false
+      },
+      {
+        "option_text": "The history of Madinah",
+        "is_correct": false
+      },
+      {
+        "option_text": "The calculation of zakah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Which surah is named after the cow?",
+    "explanation": "Al-Baqarah means “The Cow,” referring to the account mentioned in the surah.",
+    "source_reference": "Qur’an 2:67–73",
+    "options": [
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-An‘am",
+        "is_correct": false
+      },
+      {
+        "option_text": "An-Nahl",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-‘Ankabut",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "Which surah tells the story of Prophet Yusuf in a continuous narrative?",
+    "explanation": "Surah Yusuf presents the account of Prophet Yusuf across its verses.",
+    "source_reference": "Qur’an 12:1–111",
+    "options": [
+      {
+        "option_text": "Maryam",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yusuf",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hud",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nuh",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Beginner",
+    "question_text": "What is the central purpose of the Qur’an for believers?",
+    "explanation": "The Qur’an describes itself as guidance for people and for the God-conscious.",
+    "source_reference": "Qur’an 2:2; 2:185",
+    "options": [
+      {
+        "option_text": "Only a book of poetry",
+        "is_correct": false
+      },
+      {
+        "option_text": "Guidance",
+        "is_correct": true
+      },
+      {
+        "option_text": "A list of family names",
+        "is_correct": false
+      },
+      {
+        "option_text": "A book of mathematics",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What does the term “Wahy” mean in Qur’anic studies?",
+    "explanation": "Wahy refers to divine revelation or communication from Allah to His chosen messengers.",
+    "source_reference": "Qur’an 42:51",
+    "options": [
+      {
+        "option_text": "Revelation",
+        "is_correct": true
+      },
+      {
+        "option_text": "Migration",
+        "is_correct": false
+      },
+      {
+        "option_text": "Charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pilgrimage",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What is “Asbab al-Nuzul” the study of?",
+    "explanation": "Asbab al-Nuzul studies the occasions and circumstances connected with the revelation of particular verses.",
+    "source_reference": "Qur’an 8:1; 58:1 (examples discussed in tafsir works)",
+    "options": [
+      {
+        "option_text": "Reasons and circumstances of revelation",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rules of inheritance",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arabic calligraphy",
+        "is_correct": false
+      },
+      {
+        "option_text": "The compilation of Hadith",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What does “Tafsir” mean?",
+    "explanation": "Tafsir is the explanation and interpretation of Qur’anic meanings.",
+    "source_reference": "Qur’an 16:44",
+    "options": [
+      {
+        "option_text": "Explanation or interpretation of the Qur’an",
+        "is_correct": true
+      },
+      {
+        "option_text": "Memorisation only",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "A Qur’anic script style",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What is the term for a verse that is clear in meaning, as contrasted with verses requiring deeper interpretation?",
+    "explanation": "Surah Al ‘Imran distinguishes decisive verses (muhkamat) from others that are less immediately clear (mutashabihat).",
+    "source_reference": "Qur’an 3:7",
+    "options": [
+      {
+        "option_text": "Muhkam",
+        "is_correct": true
+      },
+      {
+        "option_text": "Mutashabih",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mursal",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mawquf",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What term is used for verses whose precise meaning is not immediately clear to everyone?",
+    "explanation": "Qur’an 3:7 refers to mutashabihat alongside decisive verses.",
+    "source_reference": "Qur’an 3:7",
+    "options": [
+      {
+        "option_text": "Muhkam",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mutashabih",
+        "is_correct": true
+      },
+      {
+        "option_text": "Makki",
+        "is_correct": false
+      },
+      {
+        "option_text": "Madani",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What is meant by a Makki surah in the common classification?",
+    "explanation": "The standard chronological classification defines Makki revelation by its occurrence before the Hijrah, regardless of the exact location.",
+    "source_reference": "Qur’an 16:41; 29:1–3 (chronological classification explained in ‘ulum al-Qur’an)",
+    "options": [
+      {
+        "option_text": "A surah revealed before the Hijrah",
+        "is_correct": true
+      },
+      {
+        "option_text": "A surah revealed only inside the Ka‘bah",
+        "is_correct": false
+      },
+      {
+        "option_text": "A surah containing no commands",
+        "is_correct": false
+      },
+      {
+        "option_text": "A surah revealed after the conquest of Makkah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What is meant by a Madani surah in the common classification?",
+    "explanation": "The common scholarly classification treats revelation after the Hijrah as Madani, even if it occurred outside Madinah.",
+    "source_reference": "Qur’an 5:3; 9:1 (chronological classification explained in ‘ulum al-Qur’an)",
+    "options": [
+      {
+        "option_text": "A surah revealed after the Hijrah",
+        "is_correct": true
+      },
+      {
+        "option_text": "A surah revealed only in Madinah city",
+        "is_correct": false
+      },
+      {
+        "option_text": "A surah with exactly ten verses",
+        "is_correct": false
+      },
+      {
+        "option_text": "A surah recited only at night",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah contains Ayat al-Kursi?",
+    "explanation": "Ayat al-Kursi is verse 255 of Surah al-Baqarah.",
+    "source_reference": "Qur’an 2:255",
+    "options": [
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Mulk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ar-Rahman",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Kahf",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which verse is known as Ayat al-Kursi?",
+    "explanation": "Ayat al-Kursi is Qur’an 2:255.",
+    "source_reference": "Qur’an 2:255",
+    "options": [
+      {
+        "option_text": "2:255",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:183",
+        "is_correct": false
+      },
+      {
+        "option_text": "3:18",
+        "is_correct": false
+      },
+      {
+        "option_text": "24:35",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah includes the account of the People of the Cave?",
+    "explanation": "The People of the Cave are discussed at the beginning of Surah al-Kahf.",
+    "source_reference": "Qur’an 18:9–26",
+    "options": [
+      {
+        "option_text": "Al-Kahf",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Qasas",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Anbiya",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Hadid",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah contains the account of Dhul-Qarnayn?",
+    "explanation": "The account of Dhul-Qarnayn appears later in Surah al-Kahf.",
+    "source_reference": "Qur’an 18:83–98",
+    "options": [
+      {
+        "option_text": "Al-Kahf",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Fath",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Jumu‘ah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Munafiqun",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah is named after the bee?",
+    "explanation": "An-Nahl means “The Bee,” and the surah refers to the bee and its inspiration.",
+    "source_reference": "Qur’an 16:68–69",
+    "options": [
+      {
+        "option_text": "An-Naml",
+        "is_correct": false
+      },
+      {
+        "option_text": "An-Nahl",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Ankabut",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Fil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah is named after the ant?",
+    "explanation": "An-Naml means “The Ant,” and the surah includes the account of the ant speaking to its community.",
+    "source_reference": "Qur’an 27:18–19",
+    "options": [
+      {
+        "option_text": "An-Naml",
+        "is_correct": true
+      },
+      {
+        "option_text": "An-Nur",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Hujurat",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ma‘arij",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah contains the verse describing the Qur’an as a healing and mercy for believers?",
+    "explanation": "Surah al-Isra states that the Qur’an is a healing and mercy for the believers.",
+    "source_reference": "Qur’an 17:82",
+    "options": [
+      {
+        "option_text": "Al-Isra",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Fil",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Kawthar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Lahab",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What does “Naskh” refer to in the technical study of Qur’anic rulings?",
+    "explanation": "Naskh is the technical term used by scholars for the supersession or abrogation of an earlier ruling by a later revelation.",
+    "source_reference": "Qur’an 2:106",
+    "options": [
+      {
+        "option_text": "Abrogation",
+        "is_correct": true
+      },
+      {
+        "option_text": "Memorisation",
+        "is_correct": false
+      },
+      {
+        "option_text": "A pause in recitation",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of calligraphy",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which verse states that Allah may replace or cause a verse to be forgotten and bring one better or similar?",
+    "explanation": "Qur’an 2:106 addresses the replacement of a verse with one better or similar.",
+    "source_reference": "Qur’an 2:106",
+    "options": [
+      {
+        "option_text": "2:106",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:255",
+        "is_correct": false
+      },
+      {
+        "option_text": "5:3",
+        "is_correct": false
+      },
+      {
+        "option_text": "97:1",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah is often called “The Heart of the Qur’an” in popular usage, though this title is not established by the Qur’an itself?",
+    "explanation": "Ya-Sin is popularly given this description; the label is a traditional designation rather than a Qur’anic statement.",
+    "source_reference": "Qur’an 36",
+    "options": [
+      {
+        "option_text": "Ya-Sin",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Fatihah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ma‘un",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah begins with the disjointed letters “Alif Lam Mim Sad”?",
+    "explanation": "Surah al-A‘raf opens with the letters Alif Lam Mim Sad.",
+    "source_reference": "Qur’an 7:1",
+    "options": [
+      {
+        "option_text": "Al-A‘raf",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Yunus",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ar-Ra‘d",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "What are “Huruf Muqatta‘at”?",
+    "explanation": "Huruf Muqatta‘at are separate letters found at the openings of some surahs; their full intended meaning is not definitively known.",
+    "source_reference": "Qur’an 2:1; 3:1; 7:1",
+    "options": [
+      {
+        "option_text": "Disjointed letters appearing at the beginning of certain surahs",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rules for inheritance",
+        "is_correct": false
+      },
+      {
+        "option_text": "Names of Qur’anic scribes",
+        "is_correct": false
+      },
+      {
+        "option_text": "The stops in recitation",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Intermediate",
+    "question_text": "Which surah includes the command to verify news brought by an unreliable person?",
+    "explanation": "Surah al-Hujurat instructs believers to verify reports so that people are not harmed through ignorance.",
+    "source_reference": "Qur’an 49:6",
+    "options": [
+      {
+        "option_text": "Al-Hujurat",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Falaq",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qadr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Masad",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which verse is widely identified as the last complete verse revealed according to one well-known scholarly report, while other reports differ?",
+    "explanation": "A well-known report from Ibn ‘Abbas identifies 2:281 as the last verse revealed; reports on the final revelation differ, so this should not be treated as an uncontested point.",
+    "source_reference": "Qur’an 2:281; Sahih al-Bukhari, Tafsir of Surah al-Baqarah (reports on the final revelation)",
+    "options": [
+      {
+        "option_text": "Qur’an 2:281",
+        "is_correct": true
+      },
+      {
+        "option_text": "Qur’an 1:1",
+        "is_correct": false
+      },
+      {
+        "option_text": "Qur’an 112:1",
+        "is_correct": false
+      },
+      {
+        "option_text": "Qur’an 96:1",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah is especially associated with the account of the slander (al-Ifk) against ‘A’ishah?",
+    "explanation": "The verses addressing the slander against a member of the Prophet’s household appear in Surah an-Nur.",
+    "source_reference": "Qur’an 24:11–20",
+    "options": [
+      {
+        "option_text": "An-Nur",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Masad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qari‘ah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Kafirun",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which passage lays down detailed guidance about documenting deferred debts?",
+    "explanation": "Qur’an 2:282 gives detailed instructions concerning written documentation of deferred debts.",
+    "source_reference": "Qur’an 2:282",
+    "options": [
+      {
+        "option_text": "Al-Baqarah 2:282",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Ikhlas 112:1–4",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Fil 105:1–5",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Kawthar 108:1–3",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah contains the verse commonly called “The Light Verse”?",
+    "explanation": "The parable of Allah’s light is found in Surah an-Nur.",
+    "source_reference": "Qur’an 24:35",
+    "options": [
+      {
+        "option_text": "An-Nur",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Hadid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Mujadilah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Hashr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which verse states that the Qur’an is protected by Allah’s remembrance?",
+    "explanation": "Qur’an 15:9 states that Allah sent down the Reminder and will preserve it.",
+    "source_reference": "Qur’an 15:9",
+    "options": [
+      {
+        "option_text": "15:9",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:183",
+        "is_correct": false
+      },
+      {
+        "option_text": "4:1",
+        "is_correct": false
+      },
+      {
+        "option_text": "112:1",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah includes the instruction that believers should not raise their voices above the voice of the Prophet?",
+    "explanation": "Surah al-Hujurat begins with etiquette concerning Allah and His Messenger, including not raising voices above the Prophet’s voice.",
+    "source_reference": "Qur’an 49:1–3",
+    "options": [
+      {
+        "option_text": "Al-Hujurat",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Ma‘un",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Fajr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qadr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah contains the verse “There is no compulsion in religion”?",
+    "explanation": "The statement appears in Surah al-Baqarah.",
+    "source_reference": "Qur’an 2:256",
+    "options": [
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Mumtahanah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Munafiqun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-‘Asr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah contains the account of the Queen of Sheba and Prophet Sulayman?",
+    "explanation": "The account of Sulayman and the Queen of Sheba appears in Surah an-Naml.",
+    "source_reference": "Qur’an 27:20–44",
+    "options": [
+      {
+        "option_text": "An-Naml",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Anfal",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qasas",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ma’idah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah includes the narrative of Qarun?",
+    "explanation": "Surah al-Qasas recounts Qarun’s wealth, arrogance and downfall.",
+    "source_reference": "Qur’an 28:76–82",
+    "options": [
+      {
+        "option_text": "Al-Qasas",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Fath",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Insan",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ma‘arij",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah contains the detailed account of the change of the prayer direction (qiblah)?",
+    "explanation": "The change of qiblah is discussed in Surah al-Baqarah.",
+    "source_reference": "Qur’an 2:142–150",
+    "options": [
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-An‘am",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Mulk",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qalam",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which verse explicitly mentions that the number of months with Allah is twelve?",
+    "explanation": "Qur’an 9:36 states that the number of months with Allah is twelve.",
+    "source_reference": "Qur’an 9:36",
+    "options": [
+      {
+        "option_text": "9:36",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:183",
+        "is_correct": false
+      },
+      {
+        "option_text": "3:97",
+        "is_correct": false
+      },
+      {
+        "option_text": "5:8",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah includes the command to lower the gaze and guard chastity for believing men and women?",
+    "explanation": "Surah an-Nur gives instructions to believing men and women about lowering their gaze and guarding chastity.",
+    "source_reference": "Qur’an 24:30–31",
+    "options": [
+      {
+        "option_text": "An-Nur",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Masad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qadr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Fil",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which passage describes the stages of human creation in the womb?",
+    "explanation": "Surah al-Mu’minun describes stages in human creation, including the development from a drop to a clinging form and then a lump.",
+    "source_reference": "Qur’an 23:12–14",
+    "options": [
+      {
+        "option_text": "Al-Mu’minun 23:12–14",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Kawthar 108:1–3",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Falaq 113:1–5",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ma‘un 107:1–7",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah contains the statement that righteousness is not merely turning one’s face east or west?",
+    "explanation": "Qur’an 2:177 explains that righteousness includes faith, generosity, prayer, charity, keeping promises and patience.",
+    "source_reference": "Qur’an 2:177",
+    "options": [
+      {
+        "option_text": "Al-Baqarah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Fatihah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ikhlas",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Falaq",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah includes the instruction to consult others in affairs?",
+    "explanation": "The Prophet is instructed to consult them in affairs in Surah Al ‘Imran.",
+    "source_reference": "Qur’an 3:159",
+    "options": [
+      {
+        "option_text": "Al ‘Imran",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Kafirun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Lahab",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qadr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which verse states that Allah does not burden a soul beyond its capacity?",
+    "explanation": "Qur’an 2:286 states that Allah does not burden a soul beyond what it can bear.",
+    "source_reference": "Qur’an 2:286",
+    "options": [
+      {
+        "option_text": "2:286",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:255",
+        "is_correct": false
+      },
+      {
+        "option_text": "3:8",
+        "is_correct": false
+      },
+      {
+        "option_text": "5:3",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah contains the phrase “For you is your religion, and for me is my religion”?",
+    "explanation": "Surah al-Kafirun ends by distinguishing the worship and religion of the believers from that of the disbelievers addressed.",
+    "source_reference": "Qur’an 109:6",
+    "options": [
+      {
+        "option_text": "Al-Kafirun",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Ikhlas",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Falaq",
+        "is_correct": false
+      },
+      {
+        "option_text": "An-Nas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah includes the instruction to avoid much suspicion, spying and backbiting?",
+    "explanation": "These social ethics are taught in Surah al-Hujurat.",
+    "source_reference": "Qur’an 49:12",
+    "options": [
+      {
+        "option_text": "Al-Hujurat",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Fil",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Qadr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Kawthar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which surah opens with the oath by the fig and the olive?",
+    "explanation": "Surah at-Tin begins with an oath by the fig and the olive.",
+    "source_reference": "Qur’an 95:1",
+    "options": [
+      {
+        "option_text": "At-Tin",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Balad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ash-Shams",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ad-Duha",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Ulum al-Quran",
+    "difficulty": "Advanced",
+    "question_text": "Which verse describes the Qur’an as having been sent down in stages so that it may be recited to people gradually?",
+    "explanation": "Qur’an 17:106 explains that the Qur’an was divided so it could be recited to people over time.",
+    "source_reference": "Qur’an 17:106",
+    "options": [
+      {
+        "option_text": "17:106",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:255",
+        "is_correct": false
+      },
+      {
+        "option_text": "3:97",
+        "is_correct": false
+      },
+      {
+        "option_text": "112:4",
+        "is_correct": false
+      }
+    ]
+  }
+]
