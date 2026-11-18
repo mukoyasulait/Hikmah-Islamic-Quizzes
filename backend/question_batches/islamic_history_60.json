@@ -1,0 +1,1502 @@
+[
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "In which city was Prophet Muhammad born?",
+    "explanation": "Prophet Muhammad was born in Makkah in the Year of the Elephant, according to the established seerah accounts.",
+    "source_reference": "Ibn Hisham, Al-Sirah al-Nabawiyyah",
+    "options": [
+      {
+        "option_text": "Makkah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Madinah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ta’if",
+        "is_correct": false
+      },
+      {
+        "option_text": "Jerusalem",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "What was the name of the Prophet Muhammad’s father?",
+    "explanation": "His father was ‘Abdullah ibn ‘Abd al-Muttalib.",
+    "source_reference": "Ibn Hisham, Al-Sirah al-Nabawiyyah",
+    "options": [
+      {
+        "option_text": "‘Abdullah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Talib",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Abd al-Muttalib",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hamzah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "What was the name of the Prophet Muhammad’s mother?",
+    "explanation": "His mother was Aminah bint Wahb.",
+    "source_reference": "Ibn Hisham, Al-Sirah al-Nabawiyyah",
+    "options": [
+      {
+        "option_text": "Aminah bint Wahb",
+        "is_correct": true
+      },
+      {
+        "option_text": "Khadijah bint Khuwaylid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Halimah al-Sa‘diyyah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fatimah bint Asad",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Which tribe did Prophet Muhammad belong to?",
+    "explanation": "Prophet Muhammad belonged to the Quraysh tribe of Makkah.",
+    "source_reference": "Sahih al-Bukhari, Book of the Virtues of the Prophet’s Companions",
+    "options": [
+      {
+        "option_text": "Quraysh",
+        "is_correct": true
+      },
+      {
+        "option_text": "Thaqif",
+        "is_correct": false
+      },
+      {
+        "option_text": "Aws",
+        "is_correct": false
+      },
+      {
+        "option_text": "Khazraj",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "What was the name of the cave where the first revelation came to Prophet Muhammad?",
+    "explanation": "The first revelation came while the Prophet was in the Cave of Hira.",
+    "source_reference": "Sahih al-Bukhari 3",
+    "options": [
+      {
+        "option_text": "Hira",
+        "is_correct": true
+      },
+      {
+        "option_text": "Thawr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uhud",
+        "is_correct": false
+      },
+      {
+        "option_text": "Safah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Who was the first person to believe in Prophet Muhammad’s message among the well-known early believers?",
+    "explanation": "Khadijah supported the Prophet immediately after the first revelation and was the first believer.",
+    "source_reference": "Sahih al-Bukhari 3; Ibn Hisham, Al-Sirah",
+    "options": [
+      {
+        "option_text": "Khadijah bint Khuwaylid",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Sufyan",
+        "is_correct": false
+      },
+      {
+        "option_text": "Abu Jahl",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Which city did the Muslims migrate to in the Hijrah?",
+    "explanation": "The Hijrah was the migration from Makkah to Yathrib, later known as Madinah.",
+    "source_reference": "Qur’an 9:40; Sahih al-Bukhari, Book of the Migration",
+    "options": [
+      {
+        "option_text": "Madinah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ta’if",
+        "is_correct": false
+      },
+      {
+        "option_text": "Damascus",
+        "is_correct": false
+      },
+      {
+        "option_text": "Cairo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "What was Madinah called before the Hijrah?",
+    "explanation": "The Qur’an refers to Madinah by its earlier name, Yathrib.",
+    "source_reference": "Qur’an 33:13",
+    "options": [
+      {
+        "option_text": "Yathrib",
+        "is_correct": true
+      },
+      {
+        "option_text": "Kufa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Basra",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayla",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Who accompanied Prophet Muhammad during the Hijrah journey?",
+    "explanation": "Abu Bakr accompanied the Prophet during the migration and was with him in the cave.",
+    "source_reference": "Qur’an 9:40; Sahih al-Bukhari 3653",
+    "options": [
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": true
+      },
+      {
+        "option_text": "‘Uthman",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilal",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zayd ibn Thabit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Which battle was the first major military confrontation between the Muslims of Madinah and Quraysh?",
+    "explanation": "The Battle of Badr took place in the second year after the Hijrah.",
+    "source_reference": "Qur’an 3:123; 8:5–19",
+    "options": [
+      {
+        "option_text": "Badr",
+        "is_correct": true
+      },
+      {
+        "option_text": "Uhud",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hunayn",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tabuk",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Which battle took place near Mount Uhud?",
+    "explanation": "The Battle of Uhud took place near Madinah in the third year after the Hijrah.",
+    "source_reference": "Qur’an 3:121–180",
+    "options": [
+      {
+        "option_text": "Battle of Uhud",
+        "is_correct": true
+      },
+      {
+        "option_text": "Battle of Badr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Battle of Khandaq",
+        "is_correct": false
+      },
+      {
+        "option_text": "Battle of Mu’tah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "What was another name for the Battle of the Trench?",
+    "explanation": "The Battle of the Trench is also called al-Khandaq or the Confederates (al-Ahzab).",
+    "source_reference": "Qur’an 33:9–27",
+    "options": [
+      {
+        "option_text": "Battle of al-Khandaq",
+        "is_correct": true
+      },
+      {
+        "option_text": "Battle of Badr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Battle of Hunayn",
+        "is_correct": false
+      },
+      {
+        "option_text": "Battle of Tabuk",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Which treaty was agreed between the Muslims and Quraysh in 6 AH?",
+    "explanation": "The Treaty of Hudaybiyyah was concluded between the Muslims and Quraysh in 6 AH.",
+    "source_reference": "Sahih al-Bukhari, Book of Conditions; Qur’an 48:1",
+    "options": [
+      {
+        "option_text": "Treaty of Hudaybiyyah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Treaty of Aqabah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Treaty of Versailles",
+        "is_correct": false
+      },
+      {
+        "option_text": "Treaty of Ta’if",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Which city did the Muslims peacefully enter in the conquest of Makkah?",
+    "explanation": "The conquest of Makkah occurred in 8 AH, and the Prophet granted a broad amnesty to many inhabitants.",
+    "source_reference": "Ibn Hisham, Al-Sirah; Sahih al-Bukhari, Book of Military Expeditions",
+    "options": [
+      {
+        "option_text": "Makkah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Jerusalem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Damascus",
+        "is_correct": false
+      },
+      {
+        "option_text": "Baghdad",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Who was the first caliph after the death of Prophet Muhammad?",
+    "explanation": "Abu Bakr became the first caliph after the Prophet’s death.",
+    "source_reference": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+    "options": [
+      {
+        "option_text": "Abu Bakr al-Siddiq",
+        "is_correct": true
+      },
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Uthman ibn ‘Affan",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Ali ibn Abi Talib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Who was the second Rightly Guided Caliph?",
+    "explanation": "‘Umar ibn al-Khattab succeeded Abu Bakr as the second caliph.",
+    "source_reference": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+    "options": [
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Uthman ibn ‘Affan",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Ali ibn Abi Talib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Who was the third Rightly Guided Caliph?",
+    "explanation": "‘Uthman ibn ‘Affan was the third caliph.",
+    "source_reference": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+    "options": [
+      {
+        "option_text": "‘Uthman ibn ‘Affan",
+        "is_correct": true
+      },
+      {
+        "option_text": "‘Ali ibn Abi Talib",
+        "is_correct": false
+      },
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Who was the fourth Rightly Guided Caliph?",
+    "explanation": "‘Ali ibn Abi Talib was the fourth of the commonly recognised Rightly Guided Caliphs.",
+    "source_reference": "Sahih al-Bukhari, Book of the Virtues of the Companions",
+    "options": [
+      {
+        "option_text": "‘Ali ibn Abi Talib",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Uthman ibn ‘Affan",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Which city became the capital of the Abbasid Caliphate after its foundation?",
+    "explanation": "Baghdad was founded by the Abbasid caliph al-Mansur and became the Abbasid capital.",
+    "source_reference": "Al-Tabari, History; Encyclopaedia of Islam, Baghdad",
+    "options": [
+      {
+        "option_text": "Baghdad",
+        "is_correct": true
+      },
+      {
+        "option_text": "Makkah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Madinah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Cairo",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Beginner",
+    "question_text": "Which famous mosque in Jerusalem is associated with the Night Journey?",
+    "explanation": "The Qur’an mentions al-Masjid al-Aqsa as the destination of the Night Journey.",
+    "source_reference": "Qur’an 17:1",
+    "options": [
+      {
+        "option_text": "Al-Aqsa Mosque",
+        "is_correct": true
+      },
+      {
+        "option_text": "The Prophet’s Mosque",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Grand Mosque of Makkah",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Mosque of Quba",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "In which year of the Gregorian calendar did the Hijrah to Madinah take place?",
+    "explanation": "The Hijrah occurred in 622 CE and became the starting point of the Islamic calendar.",
+    "source_reference": "Ibn Hisham, Al-Sirah; standard Islamic chronology",
+    "options": [
+      {
+        "option_text": "622 CE",
+        "is_correct": true
+      },
+      {
+        "option_text": "610 CE",
+        "is_correct": false
+      },
+      {
+        "option_text": "632 CE",
+        "is_correct": false
+      },
+      {
+        "option_text": "661 CE",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which event marks the beginning of the Islamic Hijri calendar?",
+    "explanation": "The Hijri calendar is dated from the Hijrah, although its formal calendrical adoption occurred later under ‘Umar.",
+    "source_reference": "Al-Baladhuri, Futuh al-Buldan; al-Tabari, History",
+    "options": [
+      {
+        "option_text": "The migration from Makkah to Madinah",
+        "is_correct": true
+      },
+      {
+        "option_text": "The birth of Prophet Muhammad",
+        "is_correct": false
+      },
+      {
+        "option_text": "The conquest of Makkah",
+        "is_correct": false
+      },
+      {
+        "option_text": "The first revelation",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Who hosted the Prophet after his arrival in Madinah, according to well-known seerah accounts?",
+    "explanation": "The Prophet stayed at the home of Abu Ayyub al-Ansari upon arriving in Madinah.",
+    "source_reference": "Ibn Hisham, Al-Sirah al-Nabawiyyah",
+    "options": [
+      {
+        "option_text": "Abu Ayyub al-Ansari",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Lahab",
+        "is_correct": false
+      },
+      {
+        "option_text": "Abu Jahl",
+        "is_correct": false
+      },
+      {
+        "option_text": "Musaylimah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "What was the first mosque built by the Prophet and his companions after the Hijrah, according to the common seerah account?",
+    "explanation": "The Prophet established the mosque at Quba during the journey to Madinah.",
+    "source_reference": "Sahih al-Bukhari, Book of Prayer in the Mosque of Makkah and Madinah; Ibn Hisham",
+    "options": [
+      {
+        "option_text": "Mosque of Quba",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Aqsa Mosque",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Mosque of Kufa",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Umayyad Mosque",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "What was the name of the agreement that established relations among groups in Madinah?",
+    "explanation": "The document commonly called the Constitution of Madinah set out relationships and obligations among communities in the city.",
+    "source_reference": "Ibn Ishaq/Ibn Hisham, Al-Sirah al-Nabawiyyah",
+    "options": [
+      {
+        "option_text": "The Constitution or Charter of Madinah",
+        "is_correct": true
+      },
+      {
+        "option_text": "The Treaty of Hudaybiyyah",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Treaty of Versailles",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Pact of Umar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which two Arab tribes formed a major part of the Ansar in Madinah?",
+    "explanation": "The Ansar included the Aws and Khazraj, who supported the Prophet and the migrants.",
+    "source_reference": "Qur’an 59:9; Ibn Hisham, Al-Sirah",
+    "options": [
+      {
+        "option_text": "Aws and Khazraj",
+        "is_correct": true
+      },
+      {
+        "option_text": "Quraysh and Thaqif",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ghassan and Lakhm",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tamim and Bakr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "What does the term Muhajirun refer to in early Islamic history?",
+    "explanation": "Muhajirun refers especially to the believers who migrated from Makkah for the sake of their faith.",
+    "source_reference": "Qur’an 59:8; 9:100",
+    "options": [
+      {
+        "option_text": "Muslims who migrated from Makkah to Madinah",
+        "is_correct": true
+      },
+      {
+        "option_text": "The people of Abyssinia only",
+        "is_correct": false
+      },
+      {
+        "option_text": "The rulers of Persia",
+        "is_correct": false
+      },
+      {
+        "option_text": "The scribes of the Qur’an",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "What does the term Ansar refer to?",
+    "explanation": "The Ansar were the believers of Madinah who welcomed and supported the Prophet and the migrants.",
+    "source_reference": "Qur’an 9:100; 59:9",
+    "options": [
+      {
+        "option_text": "The supporters of the Prophet among the people of Madinah",
+        "is_correct": true
+      },
+      {
+        "option_text": "The merchants of Makkah",
+        "is_correct": false
+      },
+      {
+        "option_text": "The rulers of Byzantium",
+        "is_correct": false
+      },
+      {
+        "option_text": "The people who opposed the migration",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which companion was appointed to lead the Muslim force at the Battle of Mu’tah after the first commanders were killed?",
+    "explanation": "Khalid ibn al-Walid took command after the appointed leaders were killed and led the army back safely.",
+    "source_reference": "Sahih al-Bukhari, Book of Military Expeditions",
+    "options": [
+      {
+        "option_text": "Khalid ibn al-Walid",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Hurayrah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ibn ‘Abbas",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zayd ibn Thabit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which battle is associated with the archers positioned on a hill under the command of ‘Abdullah ibn Jubayr?",
+    "explanation": "At Uhud, the Prophet positioned archers on a hill and instructed them not to leave their post.",
+    "source_reference": "Sahih al-Bukhari, Book of Military Expeditions; Qur’an 3:152",
+    "options": [
+      {
+        "option_text": "Uhud",
+        "is_correct": true
+      },
+      {
+        "option_text": "Badr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hunayn",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tabuk",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which event is referred to by the Qur’an as the “Clear Victory” in Surah al-Fath?",
+    "explanation": "Surah al-Fath describes the Hudaybiyyah agreement as a clear victory.",
+    "source_reference": "Qur’an 48:1; Sahih al-Bukhari, Book of Tafsir",
+    "options": [
+      {
+        "option_text": "Treaty of Hudaybiyyah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Battle of Badr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Conquest of Jerusalem",
+        "is_correct": false
+      },
+      {
+        "option_text": "Battle of Yarmuk",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "In which year after Hijrah did the conquest of Makkah occur?",
+    "explanation": "The conquest of Makkah took place in Ramadan of 8 AH.",
+    "source_reference": "Ibn Hisham, Al-Sirah; Sahih al-Bukhari, Book of Military Expeditions",
+    "options": [
+      {
+        "option_text": "8 AH",
+        "is_correct": true
+      },
+      {
+        "option_text": "2 AH",
+        "is_correct": false
+      },
+      {
+        "option_text": "5 AH",
+        "is_correct": false
+      },
+      {
+        "option_text": "10 AH",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which expedition took place in 9 AH and is associated with a difficult journey in intense heat?",
+    "explanation": "The expedition to Tabuk occurred in 9 AH and is discussed in Surah at-Tawbah.",
+    "source_reference": "Qur’an 9:38–106; Sahih al-Bukhari, Book of Military Expeditions",
+    "options": [
+      {
+        "option_text": "Tabuk",
+        "is_correct": true
+      },
+      {
+        "option_text": "Badr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uhud",
+        "is_correct": false
+      },
+      {
+        "option_text": "Khandaq",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "What is the name commonly given to the Prophet’s final pilgrimage?",
+    "explanation": "The Prophet performed the Farewell Hajj in 10 AH and delivered a well-known sermon at ‘Arafah.",
+    "source_reference": "Sahih Muslim, Book of Hajj; Sahih al-Bukhari, Book of Hajj",
+    "options": [
+      {
+        "option_text": "Farewell Hajj",
+        "is_correct": true
+      },
+      {
+        "option_text": "The First Hajj",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hajj al-Qiran of Adam",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Pilgrimage of Hudaybiyyah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "In which year did Prophet Muhammad die?",
+    "explanation": "The Prophet died in Madinah in 11 AH, corresponding to 632 CE.",
+    "source_reference": "Sahih al-Bukhari, Book of Military Expeditions and Virtues of the Companions",
+    "options": [
+      {
+        "option_text": "11 AH / 632 CE",
+        "is_correct": true
+      },
+      {
+        "option_text": "1 AH / 622 CE",
+        "is_correct": false
+      },
+      {
+        "option_text": "20 AH / 641 CE",
+        "is_correct": false
+      },
+      {
+        "option_text": "40 AH / 661 CE",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which caliph is associated with the formal adoption of the Hijri calendar?",
+    "explanation": "The Hijri calendar was formally established during the caliphate of ‘Umar, using the Hijrah as its epoch.",
+    "source_reference": "Al-Tabari, History; al-Baladhuri, Futuh al-Buldan",
+    "options": [
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Uthman ibn ‘Affan",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Ali ibn Abi Talib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which caliph is especially associated with the standardisation and distribution of official Qur’an copies?",
+    "explanation": "‘Uthman ordered standard copies to be prepared and sent to major centres to help unify recitation.",
+    "source_reference": "Sahih al-Bukhari 4987",
+    "options": [
+      {
+        "option_text": "‘Uthman ibn ‘Affan",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Ali ibn Abi Talib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which early Muslim leader was known by the title al-Faruq?",
+    "explanation": "‘Umar is widely known by the title al-Faruq, associated with distinguishing truth from falsehood.",
+    "source_reference": "Al-Dhahabi, Siyar A‘lam al-Nubala’",
+    "options": [
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Bilal ibn Rabah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Salman al-Farisi",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which dynasty came to power after the Rashidun period and established its capital at Damascus?",
+    "explanation": "The Umayyad Caliphate established its principal capital at Damascus.",
+    "source_reference": "Al-Tabari, History; Encyclopaedia of Islam, Umayyads",
+    "options": [
+      {
+        "option_text": "Umayyad",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abbasid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fatimid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ottoman",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Intermediate",
+    "question_text": "Which dynasty overthrew the Umayyads in the central Islamic lands in 750 CE?",
+    "explanation": "The Abbasid revolution brought the Abbasids to power in 750 CE.",
+    "source_reference": "Al-Tabari, History; Encyclopaedia of Islam, Abbasids",
+    "options": [
+      {
+        "option_text": "Abbasids",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ottomans",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayyubids",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mamluks",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which event is commonly used to mark the beginning of the first year of the Hijri calendar, even though the calendar was formalised later?",
+    "explanation": "The Hijrah from Makkah to Madinah is the epoch from which Hijri years are counted.",
+    "source_reference": "Al-Tabari, History; al-Baladhuri, Futuh al-Buldan",
+    "options": [
+      {
+        "option_text": "The Hijrah",
+        "is_correct": true
+      },
+      {
+        "option_text": "The Battle of Badr",
+        "is_correct": false
+      },
+      {
+        "option_text": "The conquest of Makkah",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Prophet’s birth",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "What was the principal significance of the Pledges of al-‘Aqabah?",
+    "explanation": "The pledges at al-‘Aqabah created the commitments that enabled the Muslim community to migrate to Yathrib.",
+    "source_reference": "Ibn Hisham, Al-Sirah al-Nabawiyyah",
+    "options": [
+      {
+        "option_text": "People from Yathrib pledged support and protection to the Prophet, paving the way for the Hijrah",
+        "is_correct": true
+      },
+      {
+        "option_text": "They marked the conquest of Makkah",
+        "is_correct": false
+      },
+      {
+        "option_text": "They ended the Abbasid Caliphate",
+        "is_correct": false
+      },
+      {
+        "option_text": "They established the Ottoman state",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which companion was sent to Yathrib before the Hijrah to teach Islam?",
+    "explanation": "Mus‘ab ibn ‘Umayr was sent to Yathrib to teach the Qur’an and Islam after the first pledge of al-‘Aqabah.",
+    "source_reference": "Ibn Hisham, Al-Sirah al-Nabawiyyah",
+    "options": [
+      {
+        "option_text": "Mus‘ab ibn ‘Umayr",
+        "is_correct": true
+      },
+      {
+        "option_text": "Khalid ibn al-Walid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Abu Sufyan",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Amr ibn al-‘As",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which historical source is a major early biography of Prophet Muhammad based on the work of Ibn Ishaq?",
+    "explanation": "Ibn Hisham’s recension preserves a major version of Ibn Ishaq’s early biography of the Prophet.",
+    "source_reference": "Ibn Hisham, Al-Sirah al-Nabawiyyah",
+    "options": [
+      {
+        "option_text": "The Sirah edited and transmitted by Ibn Hisham",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sahih al-Bukhari’s Book of Sales",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Muwatta’ only",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Muqaddimah of Ibn Khaldun",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "What was the strategic significance of the Treaty of Hudaybiyyah for the Muslim community?",
+    "explanation": "The truce reduced immediate hostilities and created conditions in which Islam spread through contact and alliances.",
+    "source_reference": "Qur’an 48:1; Sahih al-Bukhari, Book of Conditions",
+    "options": [
+      {
+        "option_text": "It created a period of truce and opened conditions for wider peaceful engagement",
+        "is_correct": true
+      },
+      {
+        "option_text": "It immediately ended all conflict in Arabia forever",
+        "is_correct": false
+      },
+      {
+        "option_text": "It transferred the capital to Baghdad",
+        "is_correct": false
+      },
+      {
+        "option_text": "It established the Abbasid dynasty",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which Qur’anic surah is closely connected with the events surrounding the Battle of the Confederates?",
+    "explanation": "Surah al-Ahzab discusses the Confederates’ siege of Madinah and the believers’ response.",
+    "source_reference": "Qur’an 33:9–27",
+    "options": [
+      {
+        "option_text": "Al-Ahzab",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Fil",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Kawthar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ma‘un",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which battle in 15 AH is traditionally associated with a major Muslim victory over the Byzantine forces in the Levant?",
+    "explanation": "The Battle of Yarmuk was a decisive early Muslim victory against Byzantine forces in the Levant.",
+    "source_reference": "Al-Tabari, History; al-Baladhuri, Futuh al-Buldan",
+    "options": [
+      {
+        "option_text": "Yarmuk",
+        "is_correct": true
+      },
+      {
+        "option_text": "Badr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Uhud",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hunayn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which battle is associated with the Muslim conquest of the Sasanian capital region and the capture of Ctesiphon?",
+    "explanation": "The Battle of al-Qadisiyyah was a major engagement in the Muslim conquest of the Sasanian Empire, followed by the capture of Ctesiphon.",
+    "source_reference": "Al-Tabari, History; al-Baladhuri, Futuh al-Buldan",
+    "options": [
+      {
+        "option_text": "Al-Qadisiyyah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Uhud",
+        "is_correct": false
+      },
+      {
+        "option_text": "Badr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mu’tah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which companion led the Muslim conquest of Egypt during the caliphate of ‘Umar?",
+    "explanation": "‘Amr ibn al-‘As led the campaign that brought Egypt under Muslim rule.",
+    "source_reference": "Al-Baladhuri, Futuh al-Buldan; al-Tabari, History",
+    "options": [
+      {
+        "option_text": "‘Amr ibn al-‘As",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Musa al-Ash‘ari",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sa‘d ibn Abi Waqqas",
+        "is_correct": false
+      },
+      {
+        "option_text": "Zayd ibn Thabit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which city was founded as a garrison town in Iraq and became an important centre of early Islamic scholarship?",
+    "explanation": "Kufa was established as an early garrison town and became a major centre of learning and legal scholarship.",
+    "source_reference": "Al-Baladhuri, Futuh al-Buldan; Encyclopaedia of Islam, Kufa",
+    "options": [
+      {
+        "option_text": "Kufa",
+        "is_correct": true
+      },
+      {
+        "option_text": "Makkah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ta’if",
+        "is_correct": false
+      },
+      {
+        "option_text": "Jerusalem",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which city became a major early centre of Islamic scholarship in southern Iraq?",
+    "explanation": "Basra developed into an important centre of Arabic language, Hadith, theology and scholarship.",
+    "source_reference": "Al-Baladhuri, Futuh al-Buldan; Encyclopaedia of Islam, Basra",
+    "options": [
+      {
+        "option_text": "Basra",
+        "is_correct": true
+      },
+      {
+        "option_text": "Cordoba",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fez",
+        "is_correct": false
+      },
+      {
+        "option_text": "Samarkand",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which Abbasid caliph is associated with the founding of Baghdad in 762 CE?",
+    "explanation": "The Abbasid caliph al-Mansur founded Baghdad as the new capital.",
+    "source_reference": "Al-Tabari, History; Encyclopaedia of Islam, Baghdad",
+    "options": [
+      {
+        "option_text": "Al-Mansur",
+        "is_correct": true
+      },
+      {
+        "option_text": "Harun al-Rashid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Ma’mun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Mu‘tasim",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which Abbasid caliph is especially associated with the translation movement and the House of Wisdom in Baghdad?",
+    "explanation": "Al-Ma’mun’s reign is strongly associated with patronage of scholarship and translation in Baghdad; the history of the Bayt al-Hikmah is more complex than a single institution.",
+    "source_reference": "Al-Tabari, History; Dimitri Gutas, Greek Thought, Arabic Culture",
+    "options": [
+      {
+        "option_text": "Al-Ma’mun",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Umar ibn ‘Abd al-‘Aziz",
+        "is_correct": false
+      },
+      {
+        "option_text": "Salah al-Din",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which Muslim polity established a major centre of learning in Cordoba in al-Andalus?",
+    "explanation": "The Umayyad rulers of al-Andalus made Cordoba a major political and cultural centre.",
+    "source_reference": "Encyclopaedia of Islam, Cordoba; Hugh Kennedy, Muslim Spain and Portugal",
+    "options": [
+      {
+        "option_text": "Umayyad Emirate and Caliphate of Cordoba",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abbasid Caliphate of Baghdad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ayyubid Sultanate",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mamluk Sultanate",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which ruler is associated with the establishment of the Fatimid Caliphate in North Africa in 909 CE?",
+    "explanation": "‘Ubayd Allah al-Mahdi founded the Fatimid state in North Africa in 909 CE.",
+    "source_reference": "Encyclopaedia of Islam, Fatimids",
+    "options": [
+      {
+        "option_text": "‘Ubayd Allah al-Mahdi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Harun al-Rashid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Mansur",
+        "is_correct": false
+      },
+      {
+        "option_text": "Salah al-Din",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which city was founded by the Fatimids in 969 CE and became their capital in Egypt?",
+    "explanation": "The Fatimids founded Cairo after conquering Egypt, and it became their capital.",
+    "source_reference": "Al-Maqrizi, al-Khitat; Encyclopaedia of Islam, Cairo",
+    "options": [
+      {
+        "option_text": "Cairo",
+        "is_correct": true
+      },
+      {
+        "option_text": "Baghdad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Damascus",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kufa",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which Muslim leader recaptured Jerusalem from the Crusaders in 1187?",
+    "explanation": "Salah al-Din defeated the Crusader army at Hattin and regained Jerusalem in 1187.",
+    "source_reference": "Ibn Shaddad, al-Nawadir al-Sultaniyya; Encyclopaedia of Islam, Saladin",
+    "options": [
+      {
+        "option_text": "Salah al-Din al-Ayyubi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Harun al-Rashid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Mansur",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mehmed II",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which Ottoman sultan conquered Constantinople in 1453?",
+    "explanation": "Mehmed II conquered Constantinople in 1453, after which it became the Ottoman imperial capital.",
+    "source_reference": "Encyclopaedia of Islam, Istanbul; Halil Inalcik, The Ottoman Empire",
+    "options": [
+      {
+        "option_text": "Mehmed II",
+        "is_correct": true
+      },
+      {
+        "option_text": "Suleiman I",
+        "is_correct": false
+      },
+      {
+        "option_text": "Selim I",
+        "is_correct": false
+      },
+      {
+        "option_text": "Osman I",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which West African ruler’s pilgrimage to Makkah in the 14th century became famous for its display of wealth and patronage?",
+    "explanation": "Mansa Musa, ruler of the Mali Empire, made a famous pilgrimage to Makkah around 1324–1325.",
+    "source_reference": "Ibn Khaldun, Kitab al-‘Ibar; al-‘Umari, Masalik al-Absar",
+    "options": [
+      {
+        "option_text": "Mansa Musa",
+        "is_correct": true
+      },
+      {
+        "option_text": "Askia Muhammad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sundiata Keita",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sunni Ali",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Islamic History",
+    "difficulty": "Advanced",
+    "question_text": "Which scholar is widely known for writing the Muqaddimah, an influential work on history and society?",
+    "explanation": "Ibn Khaldun wrote the Muqaddimah, a major introduction to his universal history and a foundational work in historiography and social thought.",
+    "source_reference": "Ibn Khaldun, Al-Muqaddimah",
+    "options": [
+      {
+        "option_text": "Ibn Khaldun",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Bukhari",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ibn Sina",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Nawawi",
+        "is_correct": false
+      }
+    ]
+  }
+]

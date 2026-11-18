@@ -1,0 +1,1502 @@
+[
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What does Akhlaq mean in Islamic studies?",
+    "explanation": "Akhlaq refers to character, conduct and manners.",
+    "source_reference": "Qur’an 68:4; Sahih Muslim, Book of Virtue",
+    "options": [
+      {
+        "option_text": "Character and manners",
+        "is_correct": true
+      },
+      {
+        "option_text": "Trade and farming",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only ritual prayer",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arabic grammar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which quality means telling the truth?",
+    "explanation": "Honesty means speaking truthfully and avoiding falsehood.",
+    "source_reference": "Qur’an 9:119; Sahih al-Bukhari 6094",
+    "options": [
+      {
+        "option_text": "Honesty",
+        "is_correct": true
+      },
+      {
+        "option_text": "Arrogance",
+        "is_correct": false
+      },
+      {
+        "option_text": "Envy",
+        "is_correct": false
+      },
+      {
+        "option_text": "Wastefulness",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which quality means being patient during difficulty?",
+    "explanation": "Sabr means patience and steadfastness, including during hardship.",
+    "source_reference": "Qur’an 2:153",
+    "options": [
+      {
+        "option_text": "Sabr",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hasad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Kibr",
+        "is_correct": false
+      },
+      {
+        "option_text": "Riya",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What does kindness towards parents mean?",
+    "explanation": "The Qur’an commands kindness to parents and forbids even speaking harshly to them.",
+    "source_reference": "Qur’an 17:23–24",
+    "options": [
+      {
+        "option_text": "Treating them with respect and care",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ignoring them",
+        "is_correct": false
+      },
+      {
+        "option_text": "Speaking harshly to them",
+        "is_correct": false
+      },
+      {
+        "option_text": "Helping them only when rewarded",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What is the opposite of arrogance?",
+    "explanation": "Humility involves avoiding pride and treating others respectfully.",
+    "source_reference": "Qur’an 31:18; Sahih Muslim 91",
+    "options": [
+      {
+        "option_text": "Humility",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pride",
+        "is_correct": false
+      },
+      {
+        "option_text": "Boasting",
+        "is_correct": false
+      },
+      {
+        "option_text": "Contempt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What does backbiting mean?",
+    "explanation": "The Prophet explained backbiting as mentioning about another person what they would dislike.",
+    "source_reference": "Sahih Muslim 2589",
+    "options": [
+      {
+        "option_text": "Mentioning someone in their absence in a way they would dislike",
+        "is_correct": true
+      },
+      {
+        "option_text": "Giving someone sincere advice privately",
+        "is_correct": false
+      },
+      {
+        "option_text": "Praising someone truthfully",
+        "is_correct": false
+      },
+      {
+        "option_text": "Keeping a promise",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which action demonstrates gratitude to Allah?",
+    "explanation": "The Qur’an commands gratitude and promises increase for those who are grateful.",
+    "source_reference": "Qur’an 14:7",
+    "options": [
+      {
+        "option_text": "Recognising blessings and thanking Allah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Complaining about every blessing",
+        "is_correct": false
+      },
+      {
+        "option_text": "Using blessings to harm others",
+        "is_correct": false
+      },
+      {
+        "option_text": "Denying that blessings exist",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What does forgiveness involve?",
+    "explanation": "The Qur’an praises pardoning and encourages forgiveness alongside justice.",
+    "source_reference": "Qur’an 24:22; 42:40",
+    "options": [
+      {
+        "option_text": "Letting go of resentment and pardoning when appropriate",
+        "is_correct": true
+      },
+      {
+        "option_text": "Seeking revenge in every situation",
+        "is_correct": false
+      },
+      {
+        "option_text": "Spreading another person’s mistakes",
+        "is_correct": false
+      },
+      {
+        "option_text": "Refusing to admit wrongdoing",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which behaviour shows respect for neighbours?",
+    "explanation": "Islamic teachings emphasise kindness to neighbours and avoiding harm.",
+    "source_reference": "Qur’an 4:36; Sahih al-Bukhari 6018",
+    "options": [
+      {
+        "option_text": "Avoiding harm and treating them kindly",
+        "is_correct": true
+      },
+      {
+        "option_text": "Making noise to disturb them",
+        "is_correct": false
+      },
+      {
+        "option_text": "Taking their property",
+        "is_correct": false
+      },
+      {
+        "option_text": "Spreading rumours about them",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What does keeping a promise demonstrate?",
+    "explanation": "Fulfilling promises is a quality praised in the Qur’an.",
+    "source_reference": "Qur’an 17:34; 23:8",
+    "options": [
+      {
+        "option_text": "Trustworthiness",
+        "is_correct": true
+      },
+      {
+        "option_text": "Dishonesty",
+        "is_correct": false
+      },
+      {
+        "option_text": "Envy",
+        "is_correct": false
+      },
+      {
+        "option_text": "Wastefulness",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which action is an example of generosity?",
+    "explanation": "Generosity includes giving and helping others for the sake of Allah.",
+    "source_reference": "Qur’an 2:261; 76:8–9",
+    "options": [
+      {
+        "option_text": "Sharing with someone in need",
+        "is_correct": true
+      },
+      {
+        "option_text": "Keeping all resources while others suffer",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mocking poor people",
+        "is_correct": false
+      },
+      {
+        "option_text": "Wasting food",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What does the Islamic greeting “As-salamu alaykum” mean?",
+    "explanation": "The greeting expresses a prayer for peace upon the person being greeted.",
+    "source_reference": "Qur’an 4:86",
+    "options": [
+      {
+        "option_text": "Peace be upon you",
+        "is_correct": true
+      },
+      {
+        "option_text": "Good night",
+        "is_correct": false
+      },
+      {
+        "option_text": "Thank you for your work",
+        "is_correct": false
+      },
+      {
+        "option_text": "Welcome home",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What should a Muslim do when they make a mistake against another person?",
+    "explanation": "Good character includes taking responsibility and restoring the rights of others.",
+    "source_reference": "Qur’an 3:135; Sahih al-Bukhari 2449",
+    "options": [
+      {
+        "option_text": "Acknowledge it, seek forgiveness and try to make amends",
+        "is_correct": true
+      },
+      {
+        "option_text": "Blame someone else",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hide it and repeat it",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mock the person harmed",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which action shows compassion towards animals?",
+    "explanation": "Prophetic teachings encourage mercy towards animals and condemn cruelty.",
+    "source_reference": "Sahih al-Bukhari 2363; Sahih Muslim 2242",
+    "options": [
+      {
+        "option_text": "Providing care and avoiding cruelty",
+        "is_correct": true
+      },
+      {
+        "option_text": "Harming them for amusement",
+        "is_correct": false
+      },
+      {
+        "option_text": "Withholding food deliberately",
+        "is_correct": false
+      },
+      {
+        "option_text": "Destroying their shelter without reason",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What is the Islamic attitude towards mocking other people?",
+    "explanation": "The Qur’an forbids one group from ridiculing another.",
+    "source_reference": "Qur’an 49:11",
+    "options": [
+      {
+        "option_text": "It is discouraged and prohibited",
+        "is_correct": true
+      },
+      {
+        "option_text": "It is encouraged",
+        "is_correct": false
+      },
+      {
+        "option_text": "It is required",
+        "is_correct": false
+      },
+      {
+        "option_text": "It is harmless in every situation",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which quality helps a person avoid cheating in business?",
+    "explanation": "Integrity supports fair dealing and honest trade.",
+    "source_reference": "Qur’an 83:1–3; Sahih Muslim 102",
+    "options": [
+      {
+        "option_text": "Integrity",
+        "is_correct": true
+      },
+      {
+        "option_text": "Greed",
+        "is_correct": false
+      },
+      {
+        "option_text": "Deception",
+        "is_correct": false
+      },
+      {
+        "option_text": "Dishonesty",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What does maintaining family ties mean?",
+    "explanation": "Islamic teachings encourage maintaining kinship ties and treating relatives well.",
+    "source_reference": "Qur’an 4:1; Sahih al-Bukhari 5986",
+    "options": [
+      {
+        "option_text": "Keeping good relationships with relatives",
+        "is_correct": true
+      },
+      {
+        "option_text": "Avoiding all relatives",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only visiting relatives who are wealthy",
+        "is_correct": false
+      },
+      {
+        "option_text": "Spreading family secrets",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which behaviour reflects good listening?",
+    "explanation": "Respectful listening is part of considerate communication and good manners.",
+    "source_reference": "Qur’an 39:18",
+    "options": [
+      {
+        "option_text": "Paying attention without interrupting unnecessarily",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ignoring the speaker",
+        "is_correct": false
+      },
+      {
+        "option_text": "Insulting the speaker",
+        "is_correct": false
+      },
+      {
+        "option_text": "Spreading the conversation inaccurately",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "What should a Muslim do when receiving a blessing or success?",
+    "explanation": "Gratitude and humility are appropriate responses to blessings.",
+    "source_reference": "Qur’an 27:40; 31:18",
+    "options": [
+      {
+        "option_text": "Thank Allah and remain humble",
+        "is_correct": true
+      },
+      {
+        "option_text": "Become arrogant",
+        "is_correct": false
+      },
+      {
+        "option_text": "Look down on others",
+        "is_correct": false
+      },
+      {
+        "option_text": "Claim superiority over everyone",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Beginner",
+    "question_text": "Which action best demonstrates fairness?",
+    "explanation": "The Qur’an commands justice even when it is against oneself or close relatives.",
+    "source_reference": "Qur’an 4:135; 5:8",
+    "options": [
+      {
+        "option_text": "Giving people their due rights without favouritism",
+        "is_correct": true
+      },
+      {
+        "option_text": "Judging people only by wealth",
+        "is_correct": false
+      },
+      {
+        "option_text": "Changing measurements to benefit oneself",
+        "is_correct": false
+      },
+      {
+        "option_text": "Favouring friends when judging disputes",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the difference between sincerity (ikhlas) and showing off (riya)?",
+    "explanation": "Ikhlas is directing worship and good deeds sincerely to Allah; riya is performing them to gain people’s admiration.",
+    "source_reference": "Qur’an 98:5; Sahih Muslim 2985",
+    "options": [
+      {
+        "option_text": "Sincerity seeks Allah’s pleasure, while showing off seeks people’s praise",
+        "is_correct": true
+      },
+      {
+        "option_text": "Both mean doing good only for money",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sincerity means hiding all good deeds",
+        "is_correct": false
+      },
+      {
+        "option_text": "Showing off is always required",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What does the Hadith “Actions are judged by intentions” teach?",
+    "explanation": "The Hadith establishes the importance of intention, while actions must also conform to Islamic guidance.",
+    "source_reference": "Sahih al-Bukhari 1; Sahih Muslim 1907",
+    "options": [
+      {
+        "option_text": "Intentions are important in evaluating actions",
+        "is_correct": true
+      },
+      {
+        "option_text": "Actions never matter",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only public actions count",
+        "is_correct": false
+      },
+      {
+        "option_text": "Good intentions make every prohibited act lawful",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is hasad?",
+    "explanation": "Hasad is blameworthy envy; the Qur’an teaches believers to seek protection from the envier’s harm.",
+    "source_reference": "Qur’an 113:5; Sahih Muslim 2563",
+    "options": [
+      {
+        "option_text": "Envy or wishing that another person lose a blessing",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gratitude",
+        "is_correct": false
+      },
+      {
+        "option_text": "Patience",
+        "is_correct": false
+      },
+      {
+        "option_text": "Generosity",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the meaning of ghibah?",
+    "explanation": "Ghibah is speaking about a person in their absence in a way they would dislike.",
+    "source_reference": "Qur’an 49:12; Sahih Muslim 2589",
+    "options": [
+      {
+        "option_text": "Backbiting",
+        "is_correct": true
+      },
+      {
+        "option_text": "Generosity",
+        "is_correct": false
+      },
+      {
+        "option_text": "Forgiveness",
+        "is_correct": false
+      },
+      {
+        "option_text": "Courage",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is buhtan in the context of speech about others?",
+    "explanation": "Buhtan involves falsely accusing or attributing something to another person.",
+    "source_reference": "Qur’an 24:15–16; 33:58",
+    "options": [
+      {
+        "option_text": "A false accusation or slander",
+        "is_correct": true
+      },
+      {
+        "option_text": "A sincere compliment",
+        "is_correct": false
+      },
+      {
+        "option_text": "A verified testimony",
+        "is_correct": false
+      },
+      {
+        "option_text": "A private apology",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What does amanah mean?",
+    "explanation": "Amanah means a trust or responsibility that must be fulfilled faithfully.",
+    "source_reference": "Qur’an 4:58; 23:8",
+    "options": [
+      {
+        "option_text": "Trust or responsibility",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pride",
+        "is_correct": false
+      },
+      {
+        "option_text": "Waste",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mockery",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "Which Qur’anic principle guides Muslims to respond to evil with what is better?",
+    "explanation": "The Qur’an encourages responding to evil with what is better, which can turn hostility into friendship.",
+    "source_reference": "Qur’an 41:34",
+    "options": [
+      {
+        "option_text": "Repel evil with that which is better",
+        "is_correct": true
+      },
+      {
+        "option_text": "Return every insult with a greater insult",
+        "is_correct": false
+      },
+      {
+        "option_text": "Spread every disagreement publicly",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ignore justice completely",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the meaning of rifq?",
+    "explanation": "Rifq means gentleness; Prophetic teachings praise gentleness in conduct.",
+    "source_reference": "Sahih Muslim 2593",
+    "options": [
+      {
+        "option_text": "Gentleness",
+        "is_correct": true
+      },
+      {
+        "option_text": "Arrogance",
+        "is_correct": false
+      },
+      {
+        "option_text": "Deception",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rivalry",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the meaning of haya’ in Islamic character?",
+    "explanation": "Haya’ is a quality of modesty that restrains a person from indecent or shameful conduct.",
+    "source_reference": "Sahih al-Bukhari 24; Sahih Muslim 36",
+    "options": [
+      {
+        "option_text": "Modesty and a sense of moral shame",
+        "is_correct": true
+      },
+      {
+        "option_text": "Greed",
+        "is_correct": false
+      },
+      {
+        "option_text": "Pride",
+        "is_correct": false
+      },
+      {
+        "option_text": "Revenge",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "How should a Muslim respond to anger according to Prophetic guidance?",
+    "explanation": "Prophetic guidance encourages controlling anger rather than allowing it to lead to wrongdoing.",
+    "source_reference": "Sahih al-Bukhari 6114; Sahih Muslim 2609",
+    "options": [
+      {
+        "option_text": "Control it and avoid acting unjustly",
+        "is_correct": true
+      },
+      {
+        "option_text": "Allow it to justify harming others",
+        "is_correct": false
+      },
+      {
+        "option_text": "Insult everyone nearby",
+        "is_correct": false
+      },
+      {
+        "option_text": "Make decisions without thinking",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What does husn al-dhann mean?",
+    "explanation": "Husn al-dhann means maintaining a good opinion, while still responding responsibly to clear evidence.",
+    "source_reference": "Qur’an 49:12; Sahih al-Bukhari 6064",
+    "options": [
+      {
+        "option_text": "Having a good or charitable opinion where appropriate",
+        "is_correct": true
+      },
+      {
+        "option_text": "Assuming everyone is guilty",
+        "is_correct": false
+      },
+      {
+        "option_text": "Spreading suspicion",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rejecting all evidence",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the ethical importance of verifying information before sharing it?",
+    "explanation": "The Qur’an commands verification of reports to avoid harming people through ignorance.",
+    "source_reference": "Qur’an 49:6",
+    "options": [
+      {
+        "option_text": "It helps prevent harm, false accusations and regret",
+        "is_correct": true
+      },
+      {
+        "option_text": "It makes rumours more popular",
+        "is_correct": false
+      },
+      {
+        "option_text": "It removes the need for truth",
+        "is_correct": false
+      },
+      {
+        "option_text": "It encourages suspicion",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What does israf mean?",
+    "explanation": "Israf means going beyond proper limits or being wasteful; the Qur’an discourages wastefulness.",
+    "source_reference": "Qur’an 7:31; 17:26–27",
+    "options": [
+      {
+        "option_text": "Excessiveness or wastefulness",
+        "is_correct": true
+      },
+      {
+        "option_text": "Patience",
+        "is_correct": false
+      },
+      {
+        "option_text": "Truthfulness",
+        "is_correct": false
+      },
+      {
+        "option_text": "Modesty",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the ethical meaning of qana‘ah?",
+    "explanation": "Qana‘ah is contentment and freedom from excessive covetousness, while still making lawful effort.",
+    "source_reference": "Sahih Muslim 1054; Qur’an 20:131",
+    "options": [
+      {
+        "option_text": "Contentment with what Allah has provided",
+        "is_correct": true
+      },
+      {
+        "option_text": "Envy of everyone",
+        "is_correct": false
+      },
+      {
+        "option_text": "Refusing to work",
+        "is_correct": false
+      },
+      {
+        "option_text": "Taking others’ property",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the meaning of tawadu‘?",
+    "explanation": "Tawadu‘ is humility and avoiding pride or contempt towards others.",
+    "source_reference": "Qur’an 25:63; Sahih Muslim 2588",
+    "options": [
+      {
+        "option_text": "Humility",
+        "is_correct": true
+      },
+      {
+        "option_text": "Arrogance",
+        "is_correct": false
+      },
+      {
+        "option_text": "Slander",
+        "is_correct": false
+      },
+      {
+        "option_text": "Greed",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "Which behaviour is an example of fulfilling amanah at work or school?",
+    "explanation": "Fulfilling trusts includes carrying out responsibilities honestly and protecting what has been entrusted.",
+    "source_reference": "Qur’an 4:58; 8:27",
+    "options": [
+      {
+        "option_text": "Completing entrusted duties honestly",
+        "is_correct": true
+      },
+      {
+        "option_text": "Taking credit for another person’s work",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sharing confidential information without permission",
+        "is_correct": false
+      },
+      {
+        "option_text": "Falsifying records",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the ethical importance of reconciling people who are in conflict?",
+    "explanation": "The Qur’an commands believers to make peace between disputing groups with justice.",
+    "source_reference": "Qur’an 49:9–10",
+    "options": [
+      {
+        "option_text": "It helps restore peace and strengthen community relations",
+        "is_correct": true
+      },
+      {
+        "option_text": "It increases hostility",
+        "is_correct": false
+      },
+      {
+        "option_text": "It encourages gossip",
+        "is_correct": false
+      },
+      {
+        "option_text": "It removes the need for justice",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What does the Prophetic teaching about loving for one’s brother what one loves for oneself encourage?",
+    "explanation": "The Hadith encourages sincere goodwill and wishing good for fellow believers.",
+    "source_reference": "Sahih al-Bukhari 13; Sahih Muslim 45",
+    "options": [
+      {
+        "option_text": "Goodwill and concern for others",
+        "is_correct": true
+      },
+      {
+        "option_text": "Selfishness",
+        "is_correct": false
+      },
+      {
+        "option_text": "Jealousy",
+        "is_correct": false
+      },
+      {
+        "option_text": "Competition in wrongdoing",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What is the ethical meaning of sabr when facing provocation?",
+    "explanation": "Patience includes self-control and steadfastness; it does not require abandoning justice or lawful protection.",
+    "source_reference": "Qur’an 3:200; 42:43",
+    "options": [
+      {
+        "option_text": "Remaining controlled and choosing a principled response",
+        "is_correct": true
+      },
+      {
+        "option_text": "Accepting injustice without seeking lawful help",
+        "is_correct": false
+      },
+      {
+        "option_text": "Taking revenge immediately",
+        "is_correct": false
+      },
+      {
+        "option_text": "Insulting the other person",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Intermediate",
+    "question_text": "What should a Muslim do when giving advice to another person?",
+    "explanation": "Islamic guidance encourages inviting others with wisdom and good instruction.",
+    "source_reference": "Qur’an 16:125; Sahih Muslim 55",
+    "options": [
+      {
+        "option_text": "Offer it sincerely, respectfully and with wisdom",
+        "is_correct": true
+      },
+      {
+        "option_text": "Humiliate the person publicly",
+        "is_correct": false
+      },
+      {
+        "option_text": "Spread their private mistakes",
+        "is_correct": false
+      },
+      {
+        "option_text": "Use advice to show superiority",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "Which Qur’anic passage is a central foundation for the Prophet’s excellent character?",
+    "explanation": "Allah describes the Prophet as being upon an عظیم (great) character.",
+    "source_reference": "Qur’an 68:4",
+    "options": [
+      {
+        "option_text": "68:4",
+        "is_correct": true
+      },
+      {
+        "option_text": "2:183",
+        "is_correct": false
+      },
+      {
+        "option_text": "5:6",
+        "is_correct": false
+      },
+      {
+        "option_text": "105:1",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "How does the Hadith “The best of you are those best in character” relate to Islamic ethics?",
+    "explanation": "The Prophet linked excellence among believers with good character and conduct.",
+    "source_reference": "Jami‘ al-Tirmidhi 1162; graded hasan in common editions",
+    "options": [
+      {
+        "option_text": "It makes good character a measure of excellence",
+        "is_correct": true
+      },
+      {
+        "option_text": "It says appearance is the only measure",
+        "is_correct": false
+      },
+      {
+        "option_text": "It makes wealth the measure of faith",
+        "is_correct": false
+      },
+      {
+        "option_text": "It removes the importance of worship",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What is the ethical difference between forgiveness and enabling ongoing harm?",
+    "explanation": "The Qur’an praises forgiveness but also recognises justice and proportionate response; the appropriate choice depends on circumstances.",
+    "source_reference": "Qur’an 42:40–43",
+    "options": [
+      {
+        "option_text": "Forgiveness can coexist with setting boundaries and seeking justice",
+        "is_correct": true
+      },
+      {
+        "option_text": "Forgiveness requires allowing repeated abuse",
+        "is_correct": false
+      },
+      {
+        "option_text": "Justice is always forbidden",
+        "is_correct": false
+      },
+      {
+        "option_text": "A person must never seek help",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What does the principle of responding to harm without causing harm encourage?",
+    "explanation": "The Prophetic legal maxim “no harm and no reciprocating harm” is an important ethical and legal principle.",
+    "source_reference": "Sunan Ibn Majah 2340; Al-Muwatta’",
+    "options": [
+      {
+        "option_text": "Avoiding unjust injury and retaliation",
+        "is_correct": true
+      },
+      {
+        "option_text": "Taking revenge without limits",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ignoring the rights of others",
+        "is_correct": false
+      },
+      {
+        "option_text": "Using harm to gain advantage",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "Why is intention alone insufficient to make an action morally acceptable in Islam?",
+    "explanation": "Intentions matter, but they do not make prohibited actions or violations of others’ rights permissible.",
+    "source_reference": "Sahih al-Bukhari 1; Sahih Muslim 1907; Qur’an 5:2",
+    "options": [
+      {
+        "option_text": "An action must also be consistent with Islamic guidance and the rights of others",
+        "is_correct": true
+      },
+      {
+        "option_text": "Intentions are never relevant",
+        "is_correct": false
+      },
+      {
+        "option_text": "Any action is lawful if privately intended",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only public approval matters",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What is the ethical danger of riya in worship?",
+    "explanation": "Riya corrupts sincerity by seeking people’s praise through acts of worship.",
+    "source_reference": "Qur’an 107:4–6; Sahih Muslim 2985",
+    "options": [
+      {
+        "option_text": "It shifts the aim of worship from Allah’s pleasure to people’s admiration",
+        "is_correct": true
+      },
+      {
+        "option_text": "It increases sincerity",
+        "is_correct": false
+      },
+      {
+        "option_text": "It guarantees acceptance",
+        "is_correct": false
+      },
+      {
+        "option_text": "It makes intention irrelevant",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "How does the Qur’an connect justice with personal relationships?",
+    "explanation": "The Qur’an commands believers to stand firmly for justice even when it is against themselves, parents or relatives.",
+    "source_reference": "Qur’an 4:135",
+    "options": [
+      {
+        "option_text": "Believers must uphold justice even against themselves or close relatives",
+        "is_correct": true
+      },
+      {
+        "option_text": "Justice applies only to strangers",
+        "is_correct": false
+      },
+      {
+        "option_text": "Family loyalty always overrides truth",
+        "is_correct": false
+      },
+      {
+        "option_text": "Wealth determines who deserves justice",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What is the ethical significance of the instruction not to let hatred cause injustice?",
+    "explanation": "The Qur’an warns that hostility towards a people must not lead believers away from justice.",
+    "source_reference": "Qur’an 5:8",
+    "options": [
+      {
+        "option_text": "Justice must be maintained even towards people one dislikes",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hatred permits false testimony",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only friends deserve fairness",
+        "is_correct": false
+      },
+      {
+        "option_text": "Justice is optional during conflict",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What does the concept of ihsan add to ordinary ethical conduct?",
+    "explanation": "Ihsan includes excellence in worship and conduct, with awareness of Allah.",
+    "source_reference": "Sahih Muslim 8; Qur’an 16:90",
+    "options": [
+      {
+        "option_text": "Doing what is excellent and being conscious that Allah observes one’s actions",
+        "is_correct": true
+      },
+      {
+        "option_text": "Doing only the minimum for public praise",
+        "is_correct": false
+      },
+      {
+        "option_text": "Avoiding responsibility",
+        "is_correct": false
+      },
+      {
+        "option_text": "Seeking recognition from others",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What is the ethical responsibility when a person has knowledge that could benefit others?",
+    "explanation": "Islamic teachings praise beneficial knowledge and condemn concealing truth when it is required to be conveyed.",
+    "source_reference": "Qur’an 2:159; Sahih Muslim 1631",
+    "options": [
+      {
+        "option_text": "Share beneficial knowledge responsibly and truthfully",
+        "is_correct": true
+      },
+      {
+        "option_text": "Use it to deceive people",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hide it only to gain status",
+        "is_correct": false
+      },
+      {
+        "option_text": "Change facts to attract attention",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "Why is guarding the tongue important in Islamic ethics?",
+    "explanation": "The Prophet taught that a believer should speak good or remain silent.",
+    "source_reference": "Sahih al-Bukhari 6018; Sahih Muslim 47",
+    "options": [
+      {
+        "option_text": "Speech can protect or harm people and affect one’s accountability",
+        "is_correct": true
+      },
+      {
+        "option_text": "Words never have consequences",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only written messages matter",
+        "is_correct": false
+      },
+      {
+        "option_text": "Insults are always harmless",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What is the ethical difference between sincere nasihah and public humiliation?",
+    "explanation": "Nasihah is sincere advice; wisdom, discretion and respect help preserve its beneficial purpose.",
+    "source_reference": "Sahih Muslim 55; Qur’an 16:125",
+    "options": [
+      {
+        "option_text": "Nasihah aims at sincere improvement, while humiliation seeks to disgrace",
+        "is_correct": true
+      },
+      {
+        "option_text": "Both always have the same purpose",
+        "is_correct": false
+      },
+      {
+        "option_text": "Nasihah requires insults",
+        "is_correct": false
+      },
+      {
+        "option_text": "Humiliation is the best form of correction",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "How should a Muslim approach differences of opinion with others?",
+    "explanation": "Islamic ethics call for justice, good speech and wisdom, even in disagreement.",
+    "source_reference": "Qur’an 16:125; 29:46; 5:8",
+    "options": [
+      {
+        "option_text": "With fairness, respect and evidence, avoiding mockery and unjust hostility",
+        "is_correct": true
+      },
+      {
+        "option_text": "By insulting everyone who disagrees",
+        "is_correct": false
+      },
+      {
+        "option_text": "By spreading false claims",
+        "is_correct": false
+      },
+      {
+        "option_text": "By refusing to listen to any evidence",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What is the relationship between gratitude and responsible use of blessings?",
+    "explanation": "The Qur’an links gratitude with recognising Allah’s blessings and using them in ways pleasing to Him.",
+    "source_reference": "Qur’an 14:7; 34:13",
+    "options": [
+      {
+        "option_text": "Gratitude includes acknowledging blessings and using them in good ways",
+        "is_correct": true
+      },
+      {
+        "option_text": "Gratitude means wasting resources",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gratitude requires boasting",
+        "is_correct": false
+      },
+      {
+        "option_text": "Gratitude has no connection to conduct",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What is the ethical meaning of amanah in relation to public office?",
+    "explanation": "Authority and public resources are trusts; the Qur’an commands that trusts be delivered to those entitled to them and judgments be made justly.",
+    "source_reference": "Qur’an 4:58; 8:27",
+    "options": [
+      {
+        "option_text": "Using entrusted authority responsibly and not betraying public trust",
+        "is_correct": true
+      },
+      {
+        "option_text": "Treating public resources as private property",
+        "is_correct": false
+      },
+      {
+        "option_text": "Favouring relatives regardless of merit",
+        "is_correct": false
+      },
+      {
+        "option_text": "Hiding wrongdoing",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "How should a Muslim respond when they discover that they have spread false information?",
+    "explanation": "Truthfulness and repentance require correcting harm and refraining from further falsehood.",
+    "source_reference": "Qur’an 49:6; 33:70",
+    "options": [
+      {
+        "option_text": "Correct the falsehood, apologise where appropriate and avoid repeating it",
+        "is_correct": true
+      },
+      {
+        "option_text": "Spread it further",
+        "is_correct": false
+      },
+      {
+        "option_text": "Blame the person harmed",
+        "is_correct": false
+      },
+      {
+        "option_text": "Delete evidence but keep the claim",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What does the ethical concept of husn al-khuluq refer to?",
+    "explanation": "Husn al-khuluq means excellent character, a quality repeatedly praised in Prophetic teaching.",
+    "source_reference": "Sahih Muslim 2553; Jami‘ al-Tirmidhi 2003",
+    "options": [
+      {
+        "option_text": "Good character and refined conduct",
+        "is_correct": true
+      },
+      {
+        "option_text": "Wealth accumulation",
+        "is_correct": false
+      },
+      {
+        "option_text": "Public popularity",
+        "is_correct": false
+      },
+      {
+        "option_text": "Physical strength",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "Why should a person avoid judging another person’s intention without evidence?",
+    "explanation": "The Qur’an warns against excessive suspicion, and inner realities are not fully known to people.",
+    "source_reference": "Qur’an 49:12; 53:32",
+    "options": [
+      {
+        "option_text": "Only Allah fully knows what is hidden in people’s hearts",
+        "is_correct": true
+      },
+      {
+        "option_text": "Everyone’s intentions are always obvious",
+        "is_correct": false
+      },
+      {
+        "option_text": "Suspicion is always proof",
+        "is_correct": false
+      },
+      {
+        "option_text": "A person’s appearance proves their motives",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "What is the ethical role of repentance (tawbah) after wrongdoing?",
+    "explanation": "Sincere repentance involves turning away from sin; when another person’s rights are involved, those rights must also be addressed.",
+    "source_reference": "Qur’an 3:135; 66:8; Sahih al-Bukhari 2449",
+    "options": [
+      {
+        "option_text": "Turning back to Allah, regretting the wrong, stopping it and addressing others’ rights where relevant",
+        "is_correct": true
+      },
+      {
+        "option_text": "Repeating the wrong without concern",
+        "is_correct": false
+      },
+      {
+        "option_text": "Blaming everyone else",
+        "is_correct": false
+      },
+      {
+        "option_text": "Assuming no change is needed",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Akhlaq",
+    "difficulty": "Advanced",
+    "question_text": "How does good character contribute to a healthy Muslim community?",
+    "explanation": "Good character supports social trust and cooperation, and the Qur’an commands cooperation in righteousness.",
+    "source_reference": "Qur’an 5:2; 49:10–13",
+    "options": [
+      {
+        "option_text": "It builds trust, mercy, cooperation and respect",
+        "is_correct": true
+      },
+      {
+        "option_text": "It encourages exploitation",
+        "is_correct": false
+      },
+      {
+        "option_text": "It makes justice unnecessary",
+        "is_correct": false
+      },
+      {
+        "option_text": "It promotes division",
+        "is_correct": false
+      }
+    ]
+  }
+]

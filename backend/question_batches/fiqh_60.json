@@ -1,0 +1,1502 @@
+[
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What does the term Fiqh generally mean in Islamic studies?",
+    "explanation": "Fiqh is commonly used for understanding practical rulings derived from Islamic sources.",
+    "source_reference": "Introductory usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Understanding of practical Islamic rulings",
+        "is_correct": true
+      },
+      {
+        "option_text": "Memorisation of poetry",
+        "is_correct": false
+      },
+      {
+        "option_text": "The science of astronomy",
+        "is_correct": false
+      },
+      {
+        "option_text": "The study of Arabic handwriting",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "Which source is the primary foundation of Islamic guidance?",
+    "explanation": "The Qur’an is the primary revealed source of Islamic guidance.",
+    "source_reference": "Qur’an 4:59; 5:48",
+    "options": [
+      {
+        "option_text": "The Qur’an",
+        "is_correct": true
+      },
+      {
+        "option_text": "Personal opinion alone",
+        "is_correct": false
+      },
+      {
+        "option_text": "Local customs alone",
+        "is_correct": false
+      },
+      {
+        "option_text": "Historical novels",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "Which source records the teachings and example of Prophet Muhammad?",
+    "explanation": "The Sunnah preserves the Prophet’s teachings, actions and approvals.",
+    "source_reference": "Qur’an 33:21; 4:59",
+    "options": [
+      {
+        "option_text": "The Sunnah",
+        "is_correct": true
+      },
+      {
+        "option_text": "The Diwan",
+        "is_correct": false
+      },
+      {
+        "option_text": "The seerah of earlier kings only",
+        "is_correct": false
+      },
+      {
+        "option_text": "A dictionary",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is wudu?",
+    "explanation": "Wudu is the prescribed washing for ritual purification before certain acts of worship.",
+    "source_reference": "Qur’an 5:6",
+    "options": [
+      {
+        "option_text": "Ablution performed for ritual purity",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A pilgrimage journey",
+        "is_correct": false
+      },
+      {
+        "option_text": "A marriage contract",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "Which act is required before prayer when a person is in a state requiring minor ritual purification?",
+    "explanation": "Qur’an 5:6 instructs believers about purification before prayer.",
+    "source_reference": "Qur’an 5:6",
+    "options": [
+      {
+        "option_text": "Wudu",
+        "is_correct": true
+      },
+      {
+        "option_text": "Giving zakah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fasting",
+        "is_correct": false
+      },
+      {
+        "option_text": "Performing Hajj",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is salah?",
+    "explanation": "Salah is the prescribed daily ritual prayer.",
+    "source_reference": "Qur’an 2:43; 4:103",
+    "options": [
+      {
+        "option_text": "The prescribed ritual prayer",
+        "is_correct": true
+      },
+      {
+        "option_text": "The annual pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "A voluntary donation",
+        "is_correct": false
+      },
+      {
+        "option_text": "A marriage celebration",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "How many obligatory prayers are prescribed each day for Muslims?",
+    "explanation": "The five daily prayers are Fajr, Dhuhr, Asr, Maghrib and Isha.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim (Hadith on the five prayers)",
+    "options": [
+      {
+        "option_text": "Three",
+        "is_correct": false
+      },
+      {
+        "option_text": "Four",
+        "is_correct": false
+      },
+      {
+        "option_text": "Five",
+        "is_correct": true
+      },
+      {
+        "option_text": "Seven",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is zakah?",
+    "explanation": "Zakah is an obligatory act of giving subject to its conditions and rules.",
+    "source_reference": "Qur’an 9:60; 2:43",
+    "options": [
+      {
+        "option_text": "An obligatory form of almsgiving for eligible wealth",
+        "is_correct": true
+      },
+      {
+        "option_text": "A voluntary night prayer",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "A funeral prayer",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is sawm in the context of worship?",
+    "explanation": "Sawm means fasting; Ramadan fasting is prescribed for believers.",
+    "source_reference": "Qur’an 2:183",
+    "options": [
+      {
+        "option_text": "Fasting",
+        "is_correct": true
+      },
+      {
+        "option_text": "Pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "Marriage",
+        "is_correct": false
+      },
+      {
+        "option_text": "Trade",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "During which Islamic month is fasting obligatory for eligible Muslims?",
+    "explanation": "The Qur’an prescribes fasting during the month of Ramadan.",
+    "source_reference": "Qur’an 2:185",
+    "options": [
+      {
+        "option_text": "Sha‘ban",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ramadan",
+        "is_correct": true
+      },
+      {
+        "option_text": "Shawwal",
+        "is_correct": false
+      },
+      {
+        "option_text": "Safar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is Hajj?",
+    "explanation": "Hajj is the pilgrimage to the Ka‘bah with prescribed rites during its season for those able to undertake it.",
+    "source_reference": "Qur’an 3:97; 2:197",
+    "options": [
+      {
+        "option_text": "Pilgrimage to the Sacred House in Makkah at its appointed time",
+        "is_correct": true
+      },
+      {
+        "option_text": "A daily prayer",
+        "is_correct": false
+      },
+      {
+        "option_text": "A form of business contract",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of fasting",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is the qiblah?",
+    "explanation": "Muslims are commanded to turn towards al-Masjid al-Haram in prayer.",
+    "source_reference": "Qur’an 2:144",
+    "options": [
+      {
+        "option_text": "The direction Muslims face in prayer",
+        "is_correct": true
+      },
+      {
+        "option_text": "The place where zakah is collected",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "The call to prayer",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is tayammum?",
+    "explanation": "Tayammum is a prescribed form of dry purification when water cannot be used under the stated conditions.",
+    "source_reference": "Qur’an 4:43; 5:6",
+    "options": [
+      {
+        "option_text": "Dry purification using clean earth when its conditions apply",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "A voluntary fast",
+        "is_correct": false
+      },
+      {
+        "option_text": "A form of zakah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is the adhan?",
+    "explanation": "The adhan announces the prayer and calls Muslims to it.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim (chapters on adhan)",
+    "options": [
+      {
+        "option_text": "The call announcing the time for prayer",
+        "is_correct": true
+      },
+      {
+        "option_text": "The sermon on Friday",
+        "is_correct": false
+      },
+      {
+        "option_text": "The end of fasting",
+        "is_correct": false
+      },
+      {
+        "option_text": "The marriage proposal",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is the khutbah commonly associated with Jumu‘ah?",
+    "explanation": "The Friday prayer is preceded by a sermon and remembrance of Allah.",
+    "source_reference": "Qur’an 62:9; Sahih al-Bukhari, Book of Friday Prayer",
+    "options": [
+      {
+        "option_text": "The sermon delivered before the Friday congregational prayer",
+        "is_correct": true
+      },
+      {
+        "option_text": "A private supplication after meals",
+        "is_correct": false
+      },
+      {
+        "option_text": "A funeral washing",
+        "is_correct": false
+      },
+      {
+        "option_text": "The call to begin fasting",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is halal?",
+    "explanation": "Halal describes what is lawful or permitted under Islamic guidance.",
+    "source_reference": "Qur’an 2:168; 5:88",
+    "options": [
+      {
+        "option_text": "Permitted according to Islamic teachings",
+        "is_correct": true
+      },
+      {
+        "option_text": "Always disliked",
+        "is_correct": false
+      },
+      {
+        "option_text": "Forbidden in every circumstance",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of prayer",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is haram?",
+    "explanation": "Haram describes what Islamic teachings prohibit.",
+    "source_reference": "Qur’an 5:3; 6:151",
+    "options": [
+      {
+        "option_text": "Prohibited under Islamic teachings",
+        "is_correct": true
+      },
+      {
+        "option_text": "Recommended",
+        "is_correct": false
+      },
+      {
+        "option_text": "A voluntary act",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is a mosque primarily used for?",
+    "explanation": "Mosques are places for worship, remembrance and community religious life.",
+    "source_reference": "Qur’an 9:18; 72:18",
+    "options": [
+      {
+        "option_text": "Worship and communal religious activities",
+        "is_correct": true
+      },
+      {
+        "option_text": "Only commercial trading",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only sports competitions",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only private housing",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What is the general purpose of a funeral prayer (Salat al-Janazah)?",
+    "explanation": "The funeral prayer is a communal supplication for the deceased.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim (funeral prayer chapters)",
+    "options": [
+      {
+        "option_text": "To supplicate for a deceased Muslim",
+        "is_correct": true
+      },
+      {
+        "option_text": "To celebrate a marriage",
+        "is_correct": false
+      },
+      {
+        "option_text": "To mark the start of Ramadan",
+        "is_correct": false
+      },
+      {
+        "option_text": "To replace the five daily prayers",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Beginner",
+    "question_text": "What does the term nikah refer to?",
+    "explanation": "Nikah is the marriage contract recognised in Islamic law.",
+    "source_reference": "Qur’an 4:21; 4:4",
+    "options": [
+      {
+        "option_text": "An Islamic marriage contract",
+        "is_correct": true
+      },
+      {
+        "option_text": "A business partnership only",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of fasting",
+        "is_correct": false
+      },
+      {
+        "option_text": "A funeral rite",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is the difference between fard and sunnah in common legal usage?",
+    "explanation": "Fard denotes an obligation; sunnah can refer to the Prophet’s way and, in legal classification, recommended acts depending on context.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Fard is obligatory; sunnah refers to the Prophet’s established practice and may have different legal classifications",
+        "is_correct": true
+      },
+      {
+        "option_text": "Both always mean forbidden",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fard is optional while sunnah is always obligatory",
+        "is_correct": false
+      },
+      {
+        "option_text": "They are names of prayer times",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What does the legal term mustahabb generally mean?",
+    "explanation": "Mustahabb describes an act whose performance is rewarded but whose omission is not ordinarily sinful.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Recommended or encouraged",
+        "is_correct": true
+      },
+      {
+        "option_text": "Strictly prohibited",
+        "is_correct": false
+      },
+      {
+        "option_text": "Invalid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Obligatory in every case",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What does makruh generally mean in Islamic legal terminology?",
+    "explanation": "Makruh generally refers to a discouraged act; details can differ between legal schools.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Disliked or discouraged",
+        "is_correct": true
+      },
+      {
+        "option_text": "Obligatory",
+        "is_correct": false
+      },
+      {
+        "option_text": "A pillar of Hajj",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of purification",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What does mubah mean?",
+    "explanation": "Mubah refers to an act that is legally permissible, without a specific reward or blame merely for doing it or leaving it.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Permissible",
+        "is_correct": true
+      },
+      {
+        "option_text": "Forbidden",
+        "is_correct": false
+      },
+      {
+        "option_text": "Obligatory",
+        "is_correct": false
+      },
+      {
+        "option_text": "Invalid",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is the meaning of najasah in matters of purification?",
+    "explanation": "Najasah refers to impurity that is relevant to rules of purification.",
+    "source_reference": "Fiqh of taharah; Qur’an 5:6",
+    "options": [
+      {
+        "option_text": "Ritual impurity",
+        "is_correct": true
+      },
+      {
+        "option_text": "Voluntary charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A pilgrimage rite",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prayer unit",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is ghusl?",
+    "explanation": "Ghusl is a full ritual washing required in specified states and circumstances.",
+    "source_reference": "Qur’an 4:43; 5:6",
+    "options": [
+      {
+        "option_text": "A full ritual bath",
+        "is_correct": true
+      },
+      {
+        "option_text": "A short supplication",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "The call to prayer",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is the term for the meal taken before dawn by a fasting person?",
+    "explanation": "Suhoor is the pre-dawn meal associated with fasting.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim (chapters on fasting)",
+    "options": [
+      {
+        "option_text": "Suhoor",
+        "is_correct": true
+      },
+      {
+        "option_text": "Iftar",
+        "is_correct": false
+      },
+      {
+        "option_text": "Walima",
+        "is_correct": false
+      },
+      {
+        "option_text": "Sadaqah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is iftar?",
+    "explanation": "Iftar is the breaking of the fast after sunset.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim (chapters on fasting)",
+    "options": [
+      {
+        "option_text": "Breaking the fast at sunset",
+        "is_correct": true
+      },
+      {
+        "option_text": "Beginning the pre-dawn prayer",
+        "is_correct": false
+      },
+      {
+        "option_text": "Paying zakah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Entering ihram",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is fidyah in the context of fasting?",
+    "explanation": "The Qur’an mentions feeding a needy person as compensation in the context of those who find fasting difficult; detailed application is explained by jurists.",
+    "source_reference": "Qur’an 2:184",
+    "options": [
+      {
+        "option_text": "Compensation prescribed for certain people unable to fast under relevant conditions",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "The Friday sermon",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prayer performed at dawn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is kaffarah?",
+    "explanation": "Kaffarah is an expiation prescribed for particular acts or violations, with rules depending on the case.",
+    "source_reference": "Qur’an 5:89; 58:3–4",
+    "options": [
+      {
+        "option_text": "An expiation required for certain specified violations",
+        "is_correct": true
+      },
+      {
+        "option_text": "A voluntary greeting",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of mosque",
+        "is_correct": false
+      },
+      {
+        "option_text": "A Qur’anic chapter",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is ihram during Hajj or ‘Umrah?",
+    "explanation": "Ihram is the sacred state entered with intention for Hajj or ‘Umrah, with specific restrictions.",
+    "source_reference": "Qur’an 2:196; Sahih al-Bukhari, Book of Hajj",
+    "options": [
+      {
+        "option_text": "A consecrated state entered for the pilgrimage rites",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "The final prayer of the day",
+        "is_correct": false
+      },
+      {
+        "option_text": "A marriage feast",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is tawaf?",
+    "explanation": "Tawaf is circumambulation of the Ka‘bah as part of Hajj or ‘Umrah.",
+    "source_reference": "Qur’an 22:29; 2:125",
+    "options": [
+      {
+        "option_text": "Circling the Ka‘bah as a pilgrimage rite",
+        "is_correct": true
+      },
+      {
+        "option_text": "Walking between Safa and Marwah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Standing at ‘Arafah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Casting pebbles at the Jamarat",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is sa‘i in Hajj and ‘Umrah?",
+    "explanation": "Sa‘i is the ritual journey between Safa and Marwah.",
+    "source_reference": "Qur’an 2:158",
+    "options": [
+      {
+        "option_text": "Walking between Safa and Marwah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Circling the Ka‘bah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Standing at Muzdalifah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Entering the mosque",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is wuquf at ‘Arafah?",
+    "explanation": "Presence at ‘Arafah is a central pillar of Hajj.",
+    "source_reference": "Sahih Muslim, Book of Hajj; Jami‘ al-Tirmidhi, Hadith “Hajj is ‘Arafah”",
+    "options": [
+      {
+        "option_text": "Standing or being present at ‘Arafah during the prescribed Hajj time",
+        "is_correct": true
+      },
+      {
+        "option_text": "Circling the Ka‘bah seven times",
+        "is_correct": false
+      },
+      {
+        "option_text": "Offering the Friday sermon",
+        "is_correct": false
+      },
+      {
+        "option_text": "Paying zakah al-fitr",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is riba?",
+    "explanation": "The Qur’an prohibits riba and distinguishes trade from it.",
+    "source_reference": "Qur’an 2:275–279",
+    "options": [
+      {
+        "option_text": "Usurious or prohibited increase in specified transactions",
+        "is_correct": true
+      },
+      {
+        "option_text": "A form of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prayer performed at night",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of pilgrimage",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is sadaqah?",
+    "explanation": "Sadaqah commonly refers to voluntary charity, though the word can also be used more broadly for charitable giving.",
+    "source_reference": "Qur’an 2:261; 9:60",
+    "options": [
+      {
+        "option_text": "Voluntary charity",
+        "is_correct": true
+      },
+      {
+        "option_text": "A compulsory pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prayer unit",
+        "is_correct": false
+      },
+      {
+        "option_text": "A marriage condition",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is mahr in an Islamic marriage?",
+    "explanation": "The Qur’an instructs that women be given their bridal gifts (mahr) graciously.",
+    "source_reference": "Qur’an 4:4",
+    "options": [
+      {
+        "option_text": "A marital gift due to the wife",
+        "is_correct": true
+      },
+      {
+        "option_text": "A tax paid by the mosque",
+        "is_correct": false
+      },
+      {
+        "option_text": "A fee for the marriage witness",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of fasting",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is iddah?",
+    "explanation": "Iddah is a waiting period whose duration and rules depend on the circumstances.",
+    "source_reference": "Qur’an 2:228; 2:234; 65:4",
+    "options": [
+      {
+        "option_text": "A prescribed waiting period in certain cases after divorce or a husband’s death",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "A daily prayer",
+        "is_correct": false
+      },
+      {
+        "option_text": "A charity collection",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is the purpose of witnesses in many Islamic contracts and transactions?",
+    "explanation": "The Qur’an gives guidance on witnessing and documenting financial transactions to protect rights.",
+    "source_reference": "Qur’an 2:282",
+    "options": [
+      {
+        "option_text": "To help establish and protect the rights of the parties",
+        "is_correct": true
+      },
+      {
+        "option_text": "To replace the written agreement in every case",
+        "is_correct": false
+      },
+      {
+        "option_text": "To collect zakah",
+        "is_correct": false
+      },
+      {
+        "option_text": "To lead the funeral prayer",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Intermediate",
+    "question_text": "What is the general principle behind the prohibition of cheating in trade?",
+    "explanation": "Islamic teachings condemn fraud and instruct people to give full measure and weight fairly.",
+    "source_reference": "Qur’an 83:1–3; Sahih Muslim, Book of Faith (Hadith “Whoever cheats us is not one of us”)",
+    "options": [
+      {
+        "option_text": "Transactions should be honest and free from deception",
+        "is_correct": true
+      },
+      {
+        "option_text": "A seller may hide every defect",
+        "is_correct": false
+      },
+      {
+        "option_text": "Weights and measures need not be fair",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only buyers have responsibilities",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "In usul al-fiqh, what is ijma‘?",
+    "explanation": "Ijma‘ is the concept of consensus among qualified Muslim jurists, with precise definitions and conditions discussed by legal theorists.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Scholarly consensus on a legal ruling",
+        "is_correct": true
+      },
+      {
+        "option_text": "A personal preference",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of Qur’anic recitation",
+        "is_correct": false
+      },
+      {
+        "option_text": "A narrator’s chain",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is qiyas in Islamic legal reasoning?",
+    "explanation": "Qiyas applies an established ruling to a new case when the relevant effective cause (‘illah) is shared.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Analogical reasoning that extends a ruling to a new case due to a shared effective cause",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of fasting",
+        "is_correct": false
+      },
+      {
+        "option_text": "A Hadith narrator",
+        "is_correct": false
+      },
+      {
+        "option_text": "A chapter of the Qur’an",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is the ‘illah in a legal analogy?",
+    "explanation": "The ‘illah is the operative attribute that connects the original case to the new case in qiyas.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "The effective cause on which a ruling is based",
+        "is_correct": true
+      },
+      {
+        "option_text": "The name of a legal school",
+        "is_correct": false
+      },
+      {
+        "option_text": "The judge’s signature",
+        "is_correct": false
+      },
+      {
+        "option_text": "The text of a marriage contract",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is istihsan in some schools of legal theory?",
+    "explanation": "Istihsan is a technical method discussed particularly in Hanafi legal theory, with differing explanations among scholars.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "A juristic preference for a stronger legal consideration over an apparent analogy",
+        "is_correct": true
+      },
+      {
+        "option_text": "A form of ritual washing",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of obligatory prayer",
+        "is_correct": false
+      },
+      {
+        "option_text": "A Hadith collection",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is maslahah in legal theory?",
+    "explanation": "Maslahah concerns recognised welfare or benefit, subject to the principles and limits of Islamic law.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Consideration of public welfare or benefit within the limits of Islamic legal principles",
+        "is_correct": true
+      },
+      {
+        "option_text": "A form of pilgrimage",
+        "is_correct": false
+      },
+      {
+        "option_text": "A Qur’anic script",
+        "is_correct": false
+      },
+      {
+        "option_text": "A narrator’s biography",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What does sadd al-dhara’i refer to?",
+    "explanation": "Sadd al-dhara’i is a legal principle used to prevent permissible means when they are likely to lead to prohibited outcomes, with application varying among jurists.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Blocking means that are likely to lead to prohibited harm or outcomes",
+        "is_correct": true
+      },
+      {
+        "option_text": "Opening the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A prayer performed after sunrise",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is the distinction between a rukhsah and an ‘azimah?",
+    "explanation": "A rukhsah is a legal concession under qualifying circumstances, while ‘azimah refers to the original general ruling.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "Rukhsah is a concession; ‘azimah is the original rule",
+        "is_correct": true
+      },
+      {
+        "option_text": "Both mean prohibition",
+        "is_correct": false
+      },
+      {
+        "option_text": "Rukhsah is a narrator; ‘azimah is a surah",
+        "is_correct": false
+      },
+      {
+        "option_text": "They are names for two prayers",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is the principle of “al-yaqin la yazulu bi al-shakk” commonly translated to mean?",
+    "explanation": "This legal maxim means an established certainty is not displaced merely by a later doubt.",
+    "source_reference": "Qawa‘id fiqhiyyah (legal maxims)",
+    "options": [
+      {
+        "option_text": "Certainty is not removed by doubt",
+        "is_correct": true
+      },
+      {
+        "option_text": "Hardship always creates prohibition",
+        "is_correct": false
+      },
+      {
+        "option_text": "Custom never matters",
+        "is_correct": false
+      },
+      {
+        "option_text": "Every action depends only on intention",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What does the legal maxim “al-umuru bi maqasidiha” mean?",
+    "explanation": "This maxim highlights the legal significance of intention and purpose in relevant acts.",
+    "source_reference": "Hadith: Sahih al-Bukhari 1; Sahih Muslim 1907",
+    "options": [
+      {
+        "option_text": "Matters are judged by their objectives or intentions",
+        "is_correct": true
+      },
+      {
+        "option_text": "All matters are judged by wealth",
+        "is_correct": false
+      },
+      {
+        "option_text": "Custom is always invalid",
+        "is_correct": false
+      },
+      {
+        "option_text": "Doubt overrides certainty",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What does “al-mashaqqah tajlib al-taysir” mean as a legal maxim?",
+    "explanation": "This maxim expresses that recognised hardship can justify legally established facilitation or concessions.",
+    "source_reference": "Qawa‘id fiqhiyyah; Qur’an 2:185; 4:28",
+    "options": [
+      {
+        "option_text": "Hardship brings about facilitation",
+        "is_correct": true
+      },
+      {
+        "option_text": "Every hardship is forbidden",
+        "is_correct": false
+      },
+      {
+        "option_text": "Custom overrides revelation",
+        "is_correct": false
+      },
+      {
+        "option_text": "Certainty is removed by doubt",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What does “al-‘adah muhakkamah” mean?",
+    "explanation": "Sound and relevant custom may be considered in legal rulings where it does not conflict with authoritative texts or principles.",
+    "source_reference": "Qawa‘id fiqhiyyah",
+    "options": [
+      {
+        "option_text": "Custom may be given legal consideration",
+        "is_correct": true
+      },
+      {
+        "option_text": "Custom always overrides the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "Every custom is forbidden",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only written contracts matter",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is the general meaning of “darurah” in legal discussions?",
+    "explanation": "The principle of necessity allows limited concessions in cases of genuine necessity, subject to conditions and limits.",
+    "source_reference": "Qur’an 2:173; 6:119; 16:115",
+    "options": [
+      {
+        "option_text": "Necessity that may permit an otherwise prohibited matter within limits",
+        "is_correct": true
+      },
+      {
+        "option_text": "A voluntary act of worship",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of Hadith chain",
+        "is_correct": false
+      },
+      {
+        "option_text": "A specific prayer time",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What does “la darar wa la dirar” express as a legal principle?",
+    "explanation": "This Prophetic legal principle is foundational in preventing harm and unjust reciprocal harm.",
+    "source_reference": "Sunan Ibn Majah 2340; Al-Muwatta’ (reported wording and routes)",
+    "options": [
+      {
+        "option_text": "No causing harm and no reciprocating harm",
+        "is_correct": true
+      },
+      {
+        "option_text": "Every transaction must be delayed",
+        "is_correct": false
+      },
+      {
+        "option_text": "All customs are binding",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only physical harm matters",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is the difference between a condition (shart) and a pillar (rukn) in many legal frameworks?",
+    "explanation": "Legal theorists commonly distinguish prerequisites external to an act from elements integral to its performance, though details vary by subject and school.",
+    "source_reference": "Usul al-fiqh and fiqh terminology",
+    "options": [
+      {
+        "option_text": "A condition is required for validity but is external to the act; a pillar is an integral part of the act",
+        "is_correct": true
+      },
+      {
+        "option_text": "A condition is always optional; a pillar is always disliked",
+        "is_correct": false
+      },
+      {
+        "option_text": "They are identical in every respect",
+        "is_correct": false
+      },
+      {
+        "option_text": "A pillar applies only to trade",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is meant by the validity (sihhah) of an act of worship or transaction?",
+    "explanation": "Sihhah concerns whether an act satisfies the legal requirements for validity; its consequences depend on the act and legal framework.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "That it meets the relevant legal requirements for recognition as valid",
+        "is_correct": true
+      },
+      {
+        "option_text": "That it is popular",
+        "is_correct": false
+      },
+      {
+        "option_text": "That it is performed quickly",
+        "is_correct": false
+      },
+      {
+        "option_text": "That it has no written record",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is “fasid” in some schools’ legal terminology?",
+    "explanation": "Fasid describes a defective or irregular act or transaction; its precise distinction from batil varies among legal schools.",
+    "source_reference": "Fiqh and usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "An act or transaction affected by a defect, with technical consequences that can differ by school",
+        "is_correct": true
+      },
+      {
+        "option_text": "Always identical to a valid act",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A Hadith narrator",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "Why should a general legal ruling be applied with attention to its context and conditions?",
+    "explanation": "Islamic legal reasoning considers texts, their scope, conditions, exceptions and the facts of the case.",
+    "source_reference": "Usul al-fiqh methodology",
+    "options": [
+      {
+        "option_text": "Because evidence, circumstances and legal qualifications affect how rulings apply",
+        "is_correct": true
+      },
+      {
+        "option_text": "Because context always cancels revelation",
+        "is_correct": false
+      },
+      {
+        "option_text": "Because no legal ruling has conditions",
+        "is_correct": false
+      },
+      {
+        "option_text": "Because personal preference is the only source",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is the role of qualified scholarly disagreement (ikhtilaf) in fiqh?",
+    "explanation": "Scholarly disagreement occurs in matters where jurists differ in interpreting evidence or applying legal methods; it should be approached with knowledge and respect.",
+    "source_reference": "Usul al-fiqh methodology",
+    "options": [
+      {
+        "option_text": "It reflects differences in interpretation and legal methodology on some issues",
+        "is_correct": true
+      },
+      {
+        "option_text": "It means all opinions are equally correct in every matter",
+        "is_correct": false
+      },
+      {
+        "option_text": "It proves that the Qur’an is incomplete",
+        "is_correct": false
+      },
+      {
+        "option_text": "It removes the need for evidence",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "What is the purpose of distinguishing between qat‘i and zanni evidence?",
+    "explanation": "Qat‘i refers to definitive evidence, while zanni refers to evidence that yields probability in authenticity or interpretation, with technical distinctions in legal theory.",
+    "source_reference": "Usul al-fiqh terminology",
+    "options": [
+      {
+        "option_text": "To distinguish definitive proof from evidence that is probabilistic in authenticity or meaning",
+        "is_correct": true
+      },
+      {
+        "option_text": "To separate prayer from fasting",
+        "is_correct": false
+      },
+      {
+        "option_text": "To classify narrators by age",
+        "is_correct": false
+      },
+      {
+        "option_text": "To determine the length of a surah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Fiqh",
+    "difficulty": "Advanced",
+    "question_text": "Why should a complex contemporary Fiqh question be referred to qualified scholars?",
+    "explanation": "Complex cases can require specialised knowledge and careful application of evidence to the circumstances.",
+    "source_reference": "Qur’an 16:43; 4:59",
+    "options": [
+      {
+        "option_text": "It may require expertise in source texts, legal principles and the specific facts",
+        "is_correct": true
+      },
+      {
+        "option_text": "Because Islamic sources are never relevant",
+        "is_correct": false
+      },
+      {
+        "option_text": "Because every issue has one obvious answer",
+        "is_correct": false
+      },
+      {
+        "option_text": "Because personal guesses are sufficient",
+        "is_correct": false
+      }
+    ]
+  }
+]

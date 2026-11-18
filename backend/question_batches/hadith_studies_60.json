@@ -1,0 +1,1502 @@
+[
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is a Hadith?",
+    "explanation": "Hadith reports preserve accounts of the Prophet’s sayings, actions and tacit approvals.",
+    "source_reference": "Hadith sciences; Sahih al-Bukhari and Sahih Muslim",
+    "options": [
+      {
+        "option_text": "A report about the Prophet Muhammad’s words, actions or approvals",
+        "is_correct": true
+      },
+      {
+        "option_text": "A chapter of the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of prayer",
+        "is_correct": false
+      },
+      {
+        "option_text": "A historical map",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "Who is the central person whose sayings and actions are reported in the Sunnah?",
+    "explanation": "Hadith literature primarily records the teachings and example of Prophet Muhammad.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim",
+    "options": [
+      {
+        "option_text": "Prophet Musa",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prophet Muhammad",
+        "is_correct": true
+      },
+      {
+        "option_text": "Prophet Nuh",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prophet Dawud",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is the Sunnah?",
+    "explanation": "The Sunnah refers to the Prophet’s guidance as conveyed through his teachings, actions and approvals.",
+    "source_reference": "Qur’an 33:21; Sahih al-Bukhari",
+    "options": [
+      {
+        "option_text": "The Prophet’s guidance and example",
+        "is_correct": true
+      },
+      {
+        "option_text": "Only the Arabic alphabet",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of charity",
+        "is_correct": false
+      },
+      {
+        "option_text": "A place of worship",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is the chain of narrators in a Hadith called?",
+    "explanation": "The isnad is the chain of people who transmitted a Hadith.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Matn",
+        "is_correct": false
+      },
+      {
+        "option_text": "Isnad",
+        "is_correct": true
+      },
+      {
+        "option_text": "Fiqh",
+        "is_correct": false
+      },
+      {
+        "option_text": "Tafsir",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is the actual text or wording of a Hadith called?",
+    "explanation": "The matn is the text or content of the report, while the isnad is its chain.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Isnad",
+        "is_correct": false
+      },
+      {
+        "option_text": "Matn",
+        "is_correct": true
+      },
+      {
+        "option_text": "Madhhab",
+        "is_correct": false
+      },
+      {
+        "option_text": "Qiblah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "Which collection is widely known as Sahih al-Bukhari?",
+    "explanation": "Sahih al-Bukhari is a renowned Hadith collection compiled by Imam Muhammad ibn Isma‘il al-Bukhari.",
+    "source_reference": "Sahih al-Bukhari",
+    "options": [
+      {
+        "option_text": "A major collection of Hadith compiled by Imam al-Bukhari",
+        "is_correct": true
+      },
+      {
+        "option_text": "A Qur’anic commentary",
+        "is_correct": false
+      },
+      {
+        "option_text": "A book of geography",
+        "is_correct": false
+      },
+      {
+        "option_text": "A collection of poetry",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "Who compiled Sahih Muslim?",
+    "explanation": "Sahih Muslim was compiled by Imam Muslim ibn al-Hajjaj.",
+    "source_reference": "Sahih Muslim",
+    "options": [
+      {
+        "option_text": "Imam Muslim ibn al-Hajjaj",
+        "is_correct": true
+      },
+      {
+        "option_text": "Imam Abu Hanifah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Imam al-Shafi‘i",
+        "is_correct": false
+      },
+      {
+        "option_text": "Imam Malik ibn Anas",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What does the term “rawi” mean in Hadith studies?",
+    "explanation": "A rawi is a person who narrates or transmits a report.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Narrator",
+        "is_correct": true
+      },
+      {
+        "option_text": "Chapter",
+        "is_correct": false
+      },
+      {
+        "option_text": "Prayer leader",
+        "is_correct": false
+      },
+      {
+        "option_text": "Judge",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is a Hadith Qudsi?",
+    "explanation": "Hadith Qudsi conveys a divine message reported by the Prophet, but it is not part of the Qur’an.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim; Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report in which the Prophet relates a message from Allah, distinct from Qur’anic wording",
+        "is_correct": true
+      },
+      {
+        "option_text": "A verse of the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report about a companion only",
+        "is_correct": false
+      },
+      {
+        "option_text": "A legal ruling written by a judge",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "Which phrase is commonly used to express that a Hadith is authentic?",
+    "explanation": "Sahih means sound or authentic in Hadith classification.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Sahih",
+        "is_correct": true
+      },
+      {
+        "option_text": "Da‘if",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mawdu‘",
+        "is_correct": false
+      },
+      {
+        "option_text": "Munkar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What does “Da‘if” mean when describing a Hadith?",
+    "explanation": "Da‘if describes a report that does not meet the conditions for an accepted sound chain or text.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Weak",
+        "is_correct": true
+      },
+      {
+        "option_text": "Certain",
+        "is_correct": false
+      },
+      {
+        "option_text": "Qur’anic",
+        "is_correct": false
+      },
+      {
+        "option_text": "Mutawatir",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What does “Mawdu‘” mean in Hadith terminology?",
+    "explanation": "Mawdu‘ refers to a fabricated report falsely attributed to the Prophet.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Fabricated",
+        "is_correct": true
+      },
+      {
+        "option_text": "Well-known",
+        "is_correct": false
+      },
+      {
+        "option_text": "Brief",
+        "is_correct": false
+      },
+      {
+        "option_text": "Repeated",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is the title “Imam” often used for in Hadith history?",
+    "explanation": "Imam is an honorific used for leading scholars, including major Hadith compilers.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim",
+    "options": [
+      {
+        "option_text": "A respected scholar or leader",
+        "is_correct": true
+      },
+      {
+        "option_text": "A type of manuscript ink",
+        "is_correct": false
+      },
+      {
+        "option_text": "A narrator’s hometown only",
+        "is_correct": false
+      },
+      {
+        "option_text": "A chapter heading",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "Which companion is especially known for narrating a large number of Hadith?",
+    "explanation": "Abu Hurayrah is among the companions most widely associated with transmitting many Hadith.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim",
+    "options": [
+      {
+        "option_text": "Abu Hurayrah",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Lahab",
+        "is_correct": false
+      },
+      {
+        "option_text": "Qarun",
+        "is_correct": false
+      },
+      {
+        "option_text": "Fir‘awn",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is the main purpose of studying Hadith?",
+    "explanation": "Hadith study helps preserve and understand the Prophet’s guidance and its transmission.",
+    "source_reference": "Qur’an 16:44; 33:21",
+    "options": [
+      {
+        "option_text": "To understand and preserve the Prophet’s teachings",
+        "is_correct": true
+      },
+      {
+        "option_text": "To replace the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "To learn astronomy only",
+        "is_correct": false
+      },
+      {
+        "option_text": "To memorise family trees only",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "Which Hadith collection, together with Sahih al-Bukhari, is commonly called one of the two Sahihs?",
+    "explanation": "Sahih al-Bukhari and Sahih Muslim are commonly known together as al-Sahihayn.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim",
+    "options": [
+      {
+        "option_text": "Sahih Muslim",
+        "is_correct": true
+      },
+      {
+        "option_text": "Sunan Abi Dawud",
+        "is_correct": false
+      },
+      {
+        "option_text": "Muwatta Malik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Musnad Ahmad",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is the meaning of “Sunnah” in relation to the Prophet?",
+    "explanation": "The Sunnah is the Prophet’s way and example for the Muslim community.",
+    "source_reference": "Qur’an 33:21",
+    "options": [
+      {
+        "option_text": "His established way and example",
+        "is_correct": true
+      },
+      {
+        "option_text": "A chapter of the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "A pilgrimage station",
+        "is_correct": false
+      },
+      {
+        "option_text": "A tax",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What should a Muslim do before sharing a Hadith whose authenticity is uncertain?",
+    "explanation": "Care is required when attributing statements to the Prophet; reports should be checked against reliable sources.",
+    "source_reference": "Qur’an 49:6; Sahih Muslim, Introduction",
+    "options": [
+      {
+        "option_text": "Check its source and reliability",
+        "is_correct": true
+      },
+      {
+        "option_text": "Attribute it to the Prophet immediately",
+        "is_correct": false
+      },
+      {
+        "option_text": "Change its wording",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ignore all Hadith",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "Which companion was the father of ‘Abdullah ibn ‘Umar?",
+    "explanation": "‘Abdullah ibn ‘Umar was the son of the companion and caliph ‘Umar ibn al-Khattab.",
+    "source_reference": "Sahih al-Bukhari; Sahih Muslim",
+    "options": [
+      {
+        "option_text": "‘Umar ibn al-Khattab",
+        "is_correct": true
+      },
+      {
+        "option_text": "Abu Bakr",
+        "is_correct": false
+      },
+      {
+        "option_text": "‘Uthman ibn ‘Affan",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ali ibn Abi Talib",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Beginner",
+    "question_text": "What is the “Kutub al-Sittah” commonly understood to mean?",
+    "explanation": "Kutub al-Sittah is the common name for six major Sunni Hadith collections.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "The six major Sunni Hadith collections",
+        "is_correct": true
+      },
+      {
+        "option_text": "The six pillars of iman",
+        "is_correct": false
+      },
+      {
+        "option_text": "Six Qur’anic chapters",
+        "is_correct": false
+      },
+      {
+        "option_text": "Six daily prayers",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is a “mutawatir” Hadith?",
+    "explanation": "Mutawatir describes transmission through numerous independent routes at the levels of the chain, meeting the relevant scholarly conditions.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report transmitted by so many narrators at each level that collusion on a lie is ordinarily inconceivable",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report with one unknown narrator",
+        "is_correct": false
+      },
+      {
+        "option_text": "A fabricated report",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report without a chain",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is a “ahad” Hadith in broad classification?",
+    "explanation": "Ahad is the broad category for reports that do not meet the conditions of mutawatir transmission.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report that does not reach the mutawatir level",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report found only in the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with no narrator",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report that is necessarily fabricated",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is “jarh wa ta‘dil” concerned with?",
+    "explanation": "Jarh wa ta‘dil assesses narrators’ reliability and precision, including criticism and accreditation.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Criticism and evaluation of narrators",
+        "is_correct": true
+      },
+      {
+        "option_text": "Rules of Qur’anic recitation",
+        "is_correct": false
+      },
+      {
+        "option_text": "Inheritance calculations",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arabic poetry metres",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What does “‘Adalah” mean as a narrator quality?",
+    "explanation": "‘Adalah refers to a narrator’s uprightness and moral reliability.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Moral integrity and uprightness",
+        "is_correct": true
+      },
+      {
+        "option_text": "Ability to write quickly",
+        "is_correct": false
+      },
+      {
+        "option_text": "Living in Madinah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Being related to a companion",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What does “Dabt” refer to in narrator evaluation?",
+    "explanation": "Dabt concerns a narrator’s precision in memory or written preservation and transmission.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Accuracy and precision in retaining or transmitting reports",
+        "is_correct": true
+      },
+      {
+        "option_text": "A narrator’s wealth",
+        "is_correct": false
+      },
+      {
+        "option_text": "A narrator’s occupation",
+        "is_correct": false
+      },
+      {
+        "option_text": "The length of a Hadith",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is a “marfu‘” Hadith?",
+    "explanation": "Marfu‘ describes a report raised or attributed to the Prophet, whether its chain is connected or not.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report attributed to the Prophet",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report attributed only to a later scholar",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with a missing first narrator",
+        "is_correct": false
+      },
+      {
+        "option_text": "A fabricated report",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is a “mawquf” report?",
+    "explanation": "Mawquf reports stop at a companion rather than being attributed directly to the Prophet.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report attributed to a companion",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report attributed to Allah as Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report attributed to a tabi‘i only",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with no text",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is a “maqtu‘” report?",
+    "explanation": "Maqtu‘ reports are attributed to a Successor or someone after the companions.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report attributed to a Successor (tabi‘i) or a later person",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report attributed to the Prophet",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report transmitted by many chains",
+        "is_correct": false
+      },
+      {
+        "option_text": "A verse of the Qur’an",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is a “mursal” Hadith in a common technical definition?",
+    "explanation": "In the common definition, a tabi‘i attributes a report directly to the Prophet without mentioning the companion intermediary.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A Successor reports directly from the Prophet, omitting the companion",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report with four companions in its chain",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with no text",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report narrated by every companion",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is meant by a “munqati‘” chain?",
+    "explanation": "Munqati‘ broadly describes a disconnected chain, although specialists use more precise subcategories.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A chain with a break or missing link",
+        "is_correct": true
+      },
+      {
+        "option_text": "A chain with many independent routes",
+        "is_correct": false
+      },
+      {
+        "option_text": "A chain containing only companions",
+        "is_correct": false
+      },
+      {
+        "option_text": "A chain arranged alphabetically",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is “tadlis” in Hadith transmission?",
+    "explanation": "Tadlis is a technical form of concealment or ambiguity in transmission, assessed by Hadith specialists.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A narrator’s concealing a link or ambiguity in the chain using a form that may suggest direct hearing",
+        "is_correct": true
+      },
+      {
+        "option_text": "Memorising the Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "Writing a Hadith in large letters",
+        "is_correct": false
+      },
+      {
+        "option_text": "Repeating a report for emphasis",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is a “shadhdh” report in Hadith criticism?",
+    "explanation": "Shudhudh concerns a reliable narrator’s report contradicting stronger or more numerous reliable narrations, under specialist criteria.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report that conflicts with the narration of more reliable transmitters",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report with a very short text",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report about worship",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report narrated by a companion’s child",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is an “illah” in advanced Hadith criticism?",
+    "explanation": "An ‘illah is a hidden or subtle defect identified through detailed comparison and specialist analysis.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A subtle defect affecting a report’s reliability",
+        "is_correct": true
+      },
+      {
+        "option_text": "The title of a Hadith book",
+        "is_correct": false
+      },
+      {
+        "option_text": "A narrator’s birthplace",
+        "is_correct": false
+      },
+      {
+        "option_text": "A chapter of Islamic law",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "Which collection is known as “Al-Muwatta’” and is associated with Imam Malik?",
+    "explanation": "Imam Malik’s Al-Muwatta’ is an early work combining Prophetic reports and legal material.",
+    "source_reference": "Al-Muwatta’ of Imam Malik",
+    "options": [
+      {
+        "option_text": "A major early compilation containing Hadith and legal practice",
+        "is_correct": true
+      },
+      {
+        "option_text": "A Qur’anic translation",
+        "is_correct": false
+      },
+      {
+        "option_text": "A biography of Prophet Musa",
+        "is_correct": false
+      },
+      {
+        "option_text": "A book of Arabic grammar",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "Which scholar compiled the Sunan of Abu Dawud?",
+    "explanation": "Sunan Abi Dawud was compiled by Imam Abu Dawud al-Sijistani.",
+    "source_reference": "Sunan Abi Dawud",
+    "options": [
+      {
+        "option_text": "Abu Dawud al-Sijistani",
+        "is_correct": true
+      },
+      {
+        "option_text": "Al-Bukhari",
+        "is_correct": false
+      },
+      {
+        "option_text": "Muslim ibn al-Hajjaj",
+        "is_correct": false
+      },
+      {
+        "option_text": "Al-Nasa’i",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "Which scholar compiled Jami‘ al-Tirmidhi?",
+    "explanation": "Jami‘ al-Tirmidhi is associated with the Hadith scholar Muhammad ibn ‘Isa al-Tirmidhi.",
+    "source_reference": "Jami‘ al-Tirmidhi",
+    "options": [
+      {
+        "option_text": "Imam al-Tirmidhi",
+        "is_correct": true
+      },
+      {
+        "option_text": "Imam Malik",
+        "is_correct": false
+      },
+      {
+        "option_text": "Imam Ahmad ibn Hanbal",
+        "is_correct": false
+      },
+      {
+        "option_text": "Ibn Majah",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is the primary distinction between a Hadith’s isnad and matn?",
+    "explanation": "The isnad identifies the transmitters, while the matn is the actual content of the report.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Isnad is the chain; matn is the report’s text",
+        "is_correct": true
+      },
+      {
+        "option_text": "Isnad is the text; matn is the narrator’s hometown",
+        "is_correct": false
+      },
+      {
+        "option_text": "Both mean chapter",
+        "is_correct": false
+      },
+      {
+        "option_text": "Both mean legal ruling",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "Why do Hadith scholars compare different chains and wordings of a report?",
+    "explanation": "Comparing routes and wordings helps scholars assess support, differences and hidden defects.",
+    "source_reference": "Hadith sciences methodology",
+    "options": [
+      {
+        "option_text": "To identify corroboration, variation and possible defects",
+        "is_correct": true
+      },
+      {
+        "option_text": "To make every narration identical",
+        "is_correct": false
+      },
+      {
+        "option_text": "To remove all narrator names",
+        "is_correct": false
+      },
+      {
+        "option_text": "To replace the Qur’an",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What is “Shawahid” in Hadith terminology?",
+    "explanation": "Shawahid are corroborating reports through other companions, considered in evaluating a narration.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Supporting reports from other companions that strengthen a narration’s meaning or route",
+        "is_correct": true
+      },
+      {
+        "option_text": "A narrator’s handwriting",
+        "is_correct": false
+      },
+      {
+        "option_text": "A type of Qur’anic pause",
+        "is_correct": false
+      },
+      {
+        "option_text": "A legal school",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Intermediate",
+    "question_text": "What are “Mutaba‘at” in Hadith study?",
+    "explanation": "Mutaba‘at are corroborating routes that support a narrator’s report, often through the same companion.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Parallel supporting narrations through the same companion or a shared origin at a different route",
+        "is_correct": true
+      },
+      {
+        "option_text": "Reports with no chain",
+        "is_correct": false
+      },
+      {
+        "option_text": "Qur’anic chapter titles",
+        "is_correct": false
+      },
+      {
+        "option_text": "Narrators’ biographies only",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "In the classical definition, what two qualities are central to a Sahih li-dhatihi Hadith?",
+    "explanation": "A sound report must meet the conditions of connected transmission, narrator integrity and precision, and absence of shudhudh and harmful ‘illah.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A connected chain with upright, precise narrators and freedom from irregularity and defect",
+        "is_correct": true
+      },
+      {
+        "option_text": "A very long text and many chapters",
+        "is_correct": false
+      },
+      {
+        "option_text": "A narrator who is a ruler and a poet",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report written in the Prophet’s lifetime only",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is a Hasan li-dhatihi Hadith generally understood to have, compared with Sahih li-dhatihi?",
+    "explanation": "Hasan li-dhatihi meets the main conditions of acceptance, though the precision of one or more narrators is below the level required for Sahih.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A slightly lesser degree of narrator precision while meeting the other core conditions",
+        "is_correct": true
+      },
+      {
+        "option_text": "No chain of transmission",
+        "is_correct": false
+      },
+      {
+        "option_text": "A fabricated narrator",
+        "is_correct": false
+      },
+      {
+        "option_text": "A Qur’anic wording",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is the usual effect of corroborating routes on a suitable Hasan li-dhatihi report?",
+    "explanation": "Supporting routes can strengthen a report, potentially raising its classification depending on their number and quality.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "It may rise to Hasan li-ghayrihi or, with stronger support, a higher classification",
+        "is_correct": true
+      },
+      {
+        "option_text": "It automatically becomes Qur’an",
+        "is_correct": false
+      },
+      {
+        "option_text": "It becomes fabricated",
+        "is_correct": false
+      },
+      {
+        "option_text": "Its chain is no longer relevant",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is meant by “Sahih li-ghayrihi”?",
+    "explanation": "Sahih li-ghayrihi is a report elevated to the Sahih grade through corroboration, commonly from a Hasan report with sufficient support.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report that reaches the Sahih level through supporting routes",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report that is authentic only because it is short",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with no chain",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report attributed to a Successor",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "Which statement best describes the relationship between a Hadith being “accepted” and being “acted upon” in law?",
+    "explanation": "Jurists may discuss interpretation, reconciliation, abrogation, context and other legal principles after assessing a report’s transmission.",
+    "source_reference": "Hadith sciences and usul al-fiqh",
+    "options": [
+      {
+        "option_text": "Acceptance of transmission and legal application are related but distinct scholarly questions",
+        "is_correct": true
+      },
+      {
+        "option_text": "Every accepted report must be applied identically in every context",
+        "is_correct": false
+      },
+      {
+        "option_text": "A weak report is always stronger than a Sahih report",
+        "is_correct": false
+      },
+      {
+        "option_text": "Legal application never considers Hadith",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is “Mukhtalif al-Hadith” concerned with?",
+    "explanation": "Mukhtalif al-Hadith studies reports that appear to conflict and methods scholars use to reconcile or assess them.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "Reconciling apparently conflicting Hadith reports",
+        "is_correct": true
+      },
+      {
+        "option_text": "Counting the words in a Qur’anic surah",
+        "is_correct": false
+      },
+      {
+        "option_text": "Identifying Arabic verb forms only",
+        "is_correct": false
+      },
+      {
+        "option_text": "Listing the companions by age",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is “Nasikh wa Mansukh” in Hadith studies concerned with?",
+    "explanation": "This field examines abrogation where evidence establishes that a later ruling supersedes an earlier one.",
+    "source_reference": "Hadith sciences and usul al-fiqh",
+    "options": [
+      {
+        "option_text": "Identifying reports where a later ruling supersedes an earlier one",
+        "is_correct": true
+      },
+      {
+        "option_text": "The handwriting of narrators",
+        "is_correct": false
+      },
+      {
+        "option_text": "The geography of transmitters",
+        "is_correct": false
+      },
+      {
+        "option_text": "The number of Hadith in a collection",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is the purpose of “Takhrij al-Hadith”?",
+    "explanation": "Takhrij locates a report in Hadith sources and gathers information about its chains and scholarly grading.",
+    "source_reference": "Hadith sciences methodology",
+    "options": [
+      {
+        "option_text": "Tracing a Hadith to its original sources and identifying its transmission routes",
+        "is_correct": true
+      },
+      {
+        "option_text": "Translating every Hadith into poetry",
+        "is_correct": false
+      },
+      {
+        "option_text": "Removing the chain from a report",
+        "is_correct": false
+      },
+      {
+        "option_text": "Arranging Qur’anic chapters",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What does “Gharib” commonly indicate when describing a Hadith route?",
+    "explanation": "Gharib commonly refers to a narration transmitted through a single narrator at a particular point in its chain.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report with an isolated point of transmission",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report narrated by every person",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report without meaning",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report that is necessarily fabricated",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is “Aziz” in the classification of Hadith by number of narrators?",
+    "explanation": "Aziz is commonly defined as a report whose chain does not have fewer than two narrators at each level, though details are discussed by specialists.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report with at least two narrators at each relevant level, according to the common definition",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report with only one narrator throughout",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with no chain",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report narrated by thousands at every level",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is “Mashhur” in the technical classification by number of narrators?",
+    "explanation": "Mashhur commonly refers to a report with three or more narrators at a level, without meeting mutawatir conditions.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report transmitted by three or more at some levels but not reaching mutawatir",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report with no known narrator",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report that is always fabricated",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report found only in one manuscript",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is a “mudallas” narration?",
+    "explanation": "Mudallas describes a report involving tadlis, a technical form of concealed or ambiguous transmission.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A narration transmitted with tadlis",
+        "is_correct": true
+      },
+      {
+        "option_text": "A narration that has no matn",
+        "is_correct": false
+      },
+      {
+        "option_text": "A narration that is mutawatir",
+        "is_correct": false
+      },
+      {
+        "option_text": "A narration that is necessarily Qur’anic",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "Why is the phrase “عن” (from/on the authority of) sometimes examined carefully in a narrator’s chain?",
+    "explanation": "An ‘an‘anah may require scrutiny, especially for a narrator known for tadlis or where continuity is uncertain.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "It may indicate a form of transmission that requires checking whether direct meeting or hearing is established",
+        "is_correct": true
+      },
+      {
+        "option_text": "It always proves fabrication",
+        "is_correct": false
+      },
+      {
+        "option_text": "It is not Arabic",
+        "is_correct": false
+      },
+      {
+        "option_text": "It means the report has no chain",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is the main concern when evaluating a narrator’s “ikhtilat”?",
+    "explanation": "Ikhtilat refers to a narrator’s later confusion or deterioration, which can affect reports heard before or after that change.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A change or deterioration in the narrator’s memory or precision",
+        "is_correct": true
+      },
+      {
+        "option_text": "A change in the narrator’s language",
+        "is_correct": false
+      },
+      {
+        "option_text": "The narrator’s travel expenses",
+        "is_correct": false
+      },
+      {
+        "option_text": "The length of the narrator’s name",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is meant by distinguishing a narrator’s early and late students in cases of ikhtilat?",
+    "explanation": "Chronology of hearing can help scholars assess whether a transmission was taken before or after a narrator’s deterioration.",
+    "source_reference": "Hadith sciences methodology",
+    "options": [
+      {
+        "option_text": "To determine whether a report was heard before or after the narrator’s memory changed",
+        "is_correct": true
+      },
+      {
+        "option_text": "To rank students by wealth",
+        "is_correct": false
+      },
+      {
+        "option_text": "To decide which city is holiest",
+        "is_correct": false
+      },
+      {
+        "option_text": "To remove the narrator from all chains",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is a “mudraj” Hadith?",
+    "explanation": "Idraj is the insertion of words into a narration, sometimes by a narrator’s explanation, which scholars identify and distinguish from the original report.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report in which an explanatory phrase has been inserted into the chain or text and is not part of the original wording",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report with many narrators",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with a missing companion only",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report about trade",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is “maqlub” in Hadith criticism?",
+    "explanation": "Maqlub refers to reversal or inversion in a chain or text, whether accidental or otherwise.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report in which a name, chain element or wording has been reversed or switched",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report recited slowly",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with a long chain",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report about a companion’s virtues",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is “mudtarib” in Hadith terminology?",
+    "explanation": "Idtirab is established when conflicting versions are comparable and cannot be reconciled or preferred through accepted methods.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report transmitted in conflicting forms of comparable strength that cannot be reconciled",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report with only one wording",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report with a fully agreed chain",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report that is part of the Qur’an",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "What is “musalsal” in Hadith terminology?",
+    "explanation": "Musalsal reports have a repeated characteristic in the chain or manner of narration; this feature alone does not establish authenticity.",
+    "source_reference": "Hadith sciences terminology",
+    "options": [
+      {
+        "option_text": "A report whose transmitters share a repeated feature or manner of transmission",
+        "is_correct": true
+      },
+      {
+        "option_text": "A report with no narrators",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report whose text is always a supplication",
+        "is_correct": false
+      },
+      {
+        "option_text": "A report that is automatically authentic",
+        "is_correct": false
+      }
+    ]
+  },
+  {
+    "category": "Hadith Studies",
+    "difficulty": "Advanced",
+    "question_text": "Why must a Hadith grading be attributed to a qualified scholar or method where possible?",
+    "explanation": "Hadith criticism involves specialist evaluation, and scholars may differ based on their evidence and methodology.",
+    "source_reference": "Hadith sciences methodology",
+    "options": [
+      {
+        "option_text": "Different assessments may result from differences in available routes, narrator evaluation and critical method",
+        "is_correct": true
+      },
+      {
+        "option_text": "All scholars always give identical grades",
+        "is_correct": false
+      },
+      {
+        "option_text": "A grading is part of the Hadith text",
+        "is_correct": false
+      },
+      {
+        "option_text": "Only the compiler can ever assess a report",
+        "is_correct": false
+      }
+    ]
+  }
+]
